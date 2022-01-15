@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\P1\Sumos_radimas_du\bin\Debug\Sumos_radimas_du.exe.config
+D:\Programavimas2\Objetkinis programavimas\P1\Sumos_radimas_du\bin\Debug\Sumos_radimas_du.exe
+D:\Programavimas2\Objetkinis programavimas\P1\Sumos_radimas_du\bin\Debug\Sumos_radimas_du.pdb
+D:\Programavimas2\Objetkinis programavimas\P1\Sumos_radimas_du\obj\Debug\Sumos_radimas_du.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P1\Sumos_radimas_du\obj\Debug\Sumos_radimas_du.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P1\Sumos_radimas_du\obj\Debug\Sumos_radimas_du.exe
+D:\Programavimas2\Objetkinis programavimas\P1\Sumos_radimas_du\obj\Debug\Sumos_radimas_du.pdb

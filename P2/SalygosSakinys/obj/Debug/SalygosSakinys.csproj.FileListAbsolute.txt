@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\P2\SalygosSakinys\bin\Debug\SalygosSakinys.exe.config
+D:\Programavimas2\Objetkinis programavimas\P2\SalygosSakinys\bin\Debug\SalygosSakinys.exe
+D:\Programavimas2\Objetkinis programavimas\P2\SalygosSakinys\bin\Debug\SalygosSakinys.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\SalygosSakinys\obj\Debug\SalygosSakinys.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P2\SalygosSakinys\obj\Debug\SalygosSakinys.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P2\SalygosSakinys\obj\Debug\SalygosSakinys.exe
+D:\Programavimas2\Objetkinis programavimas\P2\SalygosSakinys\obj\Debug\SalygosSakinys.pdb

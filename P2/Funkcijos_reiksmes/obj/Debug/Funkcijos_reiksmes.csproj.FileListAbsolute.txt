@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\P2\Funkcijos_reiksmes\bin\Debug\Funkcijos_reiksmes.exe.config
+D:\Programavimas2\Objetkinis programavimas\P2\Funkcijos_reiksmes\bin\Debug\Funkcijos_reiksmes.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Funkcijos_reiksmes\bin\Debug\Funkcijos_reiksmes.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Funkcijos_reiksmes\obj\Debug\Funkcijos_reiksmes.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Funkcijos_reiksmes\obj\Debug\Funkcijos_reiksmes.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Funkcijos_reiksmes\obj\Debug\Funkcijos_reiksmes.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Funkcijos_reiksmes\obj\Debug\Funkcijos_reiksmes.pdb

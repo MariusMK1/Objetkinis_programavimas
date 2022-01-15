@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72a31042-ac44-4889-99af-8ab309710616": {
+      "ProjectGuid": "72a31042-ac44-4889-99af-8ab309710616",
+      "DisplayName": "realiuju_reiksmiu_ivedimas",
+      "ColorIndex": 0
+    },
+    "fe252894-eb6e-4111-8c8e-ef1ce519b50e": {
+      "ProjectGuid": "fe252894-eb6e-4111-8c8e-ef1ce519b50e",
+      "DisplayName": "Sveikuju_reiksmiu_ivedimas",
+      "ColorIndex": 1
+    },
+    "b5fcb9ef-3771-4a23-b410-17a9feae3601": {
+      "ProjectGuid": "b5fcb9ef-3771-4a23-b410-17a9feae3601",
+      "DisplayName": "Sumos_radimas",
+      "ColorIndex": 2
+    },
+    "179c2bac-bd2f-4bb8-b9ed-b5b1bf43d7b7": {
+      "ProjectGuid": "179c2bac-bd2f-4bb8-b9ed-b5b1bf43d7b7",
+      "DisplayName": "Labas",
+      "ColorIndex": 3
+    },
+    "1c6c7171-aac1-41e3-a757-4ed40c3b39e6": {
+      "ProjectGuid": "1c6c7171-aac1-41e3-a757-4ed40c3b39e6",
+      "DisplayName": "Sumos_radimas_du",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

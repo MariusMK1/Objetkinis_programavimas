@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\P2\Ciklas\obj\Debug\Ciklas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Ciklas\obj\Debug\Ciklas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Ciklas\bin\Debug\Ciklas.exe.config
+D:\Programavimas2\Objetkinis programavimas\P2\Ciklas\bin\Debug\Ciklas.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Ciklas\bin\Debug\Ciklas.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Ciklas\obj\Debug\Ciklas.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Ciklas\obj\Debug\Ciklas.pdb

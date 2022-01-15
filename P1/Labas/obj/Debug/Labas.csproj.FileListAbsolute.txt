@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\P1\Labas\bin\Debug\Labas.exe.config
+D:\Programavimas2\Objetkinis programavimas\P1\Labas\bin\Debug\Labas.exe
+D:\Programavimas2\Objetkinis programavimas\P1\Labas\bin\Debug\Labas.pdb
+D:\Programavimas2\Objetkinis programavimas\P1\Labas\obj\Debug\Labas.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\P1\Labas\obj\Debug\Labas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P1\Labas\obj\Debug\Labas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P1\Labas\obj\Debug\Labas.exe
+D:\Programavimas2\Objetkinis programavimas\P1\Labas\obj\Debug\Labas.pdb

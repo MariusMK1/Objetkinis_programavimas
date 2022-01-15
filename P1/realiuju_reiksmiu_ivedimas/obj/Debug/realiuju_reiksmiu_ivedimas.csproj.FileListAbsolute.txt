@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\P1\realiuju_reiksmiu_ivedimas\bin\Debug\realiuju_reiksmiu_ivedimas.exe.config
+D:\Programavimas2\Objetkinis programavimas\P1\realiuju_reiksmiu_ivedimas\bin\Debug\realiuju_reiksmiu_ivedimas.exe
+D:\Programavimas2\Objetkinis programavimas\P1\realiuju_reiksmiu_ivedimas\bin\Debug\realiuju_reiksmiu_ivedimas.pdb
+D:\Programavimas2\Objetkinis programavimas\P1\realiuju_reiksmiu_ivedimas\obj\Debug\realiuju_reiksmiu_ivedimas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P1\realiuju_reiksmiu_ivedimas\obj\Debug\realiuju_reiksmiu_ivedimas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P1\realiuju_reiksmiu_ivedimas\obj\Debug\realiuju_reiksmiu_ivedimas.exe
+D:\Programavimas2\Objetkinis programavimas\P1\realiuju_reiksmiu_ivedimas\obj\Debug\realiuju_reiksmiu_ivedimas.pdb
