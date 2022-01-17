@@ -5,3 +5,4 @@ D:\Programavimas2\Objetkinis programavimas\P2\Sudetingas_if\bin\Debug\Sudetingas
 D:\Programavimas2\Objetkinis programavimas\P2\Sudetingas_if\bin\Debug\Sudetingas_if.pdb
 D:\Programavimas2\Objetkinis programavimas\P2\Sudetingas_if\obj\Debug\Sudetingas_if.exe
 D:\Programavimas2\Objetkinis programavimas\P2\Sudetingas_if\obj\Debug\Sudetingas_if.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Sudetingas_if\obj\Debug\Sudetingas_if.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai\bin\Debug\Metodai.exe.config
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai\bin\Debug\Metodai.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai\bin\Debug\Metodai.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai\obj\Debug\Metodai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai\obj\Debug\Metodai.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai\obj\Debug\Metodai.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai\obj\Debug\Metodai.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai\obj\Debug\Metodai.csproj.AssemblyReference.cache

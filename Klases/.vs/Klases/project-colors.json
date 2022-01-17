@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e89a9cd5-5d27-4295-b26a-ab426bdc3909": {
+      "ProjectGuid": "e89a9cd5-5d27-4295-b26a-ab426bdc3909",
+      "DisplayName": "Plytu_skaiciaviavimas",
+      "ColorIndex": 0
+    },
+    "226d51bc-40ac-4b08-a9fb-cbe894a6b51e": {
+      "ProjectGuid": "226d51bc-40ac-4b08-a9fb-cbe894a6b51e",
+      "DisplayName": "plyta",
+      "ColorIndex": 1
+    },
+    "8d80bb5e-a752-4f28-9e6d-47c1795698e8": {
+      "ProjectGuid": "8d80bb5e-a752-4f28-9e6d-47c1795698e8",
+      "DisplayName": "plyta",
+      "ColorIndex": 2
+    },
+    "d5dfb363-5c87-403b-8f61-529c5b0680a9": {
+      "ProjectGuid": "d5dfb363-5c87-403b-8f61-529c5b0680a9",
+      "DisplayName": "Plytos_ivestis",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

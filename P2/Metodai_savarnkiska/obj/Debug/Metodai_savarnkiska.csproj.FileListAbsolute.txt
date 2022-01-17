@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai_savarnkiska\bin\Debug\Metodai_savarnkiska.exe.config
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai_savarnkiska\bin\Debug\Metodai_savarnkiska.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai_savarnkiska\bin\Debug\Metodai_savarnkiska.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai_savarnkiska\obj\Debug\Metodai_savarnkiska.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai_savarnkiska\obj\Debug\Metodai_savarnkiska.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai_savarnkiska\obj\Debug\Metodai_savarnkiska.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Metodai_savarnkiska\obj\Debug\Metodai_savarnkiska.pdb

@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\P2\Skaiciuotuvas\bin\Debug\Skaiciuotuvas.exe.config
+D:\Programavimas2\Objetkinis programavimas\P2\Skaiciuotuvas\bin\Debug\Skaiciuotuvas.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Skaiciuotuvas\bin\Debug\Skaiciuotuvas.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_string\bin\Debug\Simboliai_string.exe.config
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_string\bin\Debug\Simboliai_string.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_string\bin\Debug\Simboliai_string.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_string\obj\Debug\Simboliai_string.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_string\obj\Debug\Simboliai_string.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_string\obj\Debug\Simboliai_string.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_string\obj\Debug\Simboliai_string.pdb

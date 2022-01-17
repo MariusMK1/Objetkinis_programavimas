@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_dienos\obj\Debug\Simboliai_dienos.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_dienos\obj\Debug\Simboliai_dienos.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_dienos\bin\Debug\Simboliai_dienos.exe.config
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_dienos\bin\Debug\Simboliai_dienos.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_dienos\bin\Debug\Simboliai_dienos.pdb
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_dienos\obj\Debug\Simboliai_dienos.exe
+D:\Programavimas2\Objetkinis programavimas\P2\Simboliai_dienos\obj\Debug\Simboliai_dienos.pdb

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45eac1c4-5876-4801-b3fe-8884505a09a7": {
+      "ProjectGuid": "45eac1c4-5876-4801-b3fe-8884505a09a7",
+      "DisplayName": "Ciklas",
+      "ColorIndex": 0
+    },
+    "3971dffa-4f35-46e2-a549-7c6aaa1577c0": {
+      "ProjectGuid": "3971dffa-4f35-46e2-a549-7c6aaa1577c0",
+      "DisplayName": "SalygosSakinys",
+      "ColorIndex": 1
+    },
+    "f32deca5-d75d-4d73-9dd0-934adbfc9e25": {
+      "ProjectGuid": "f32deca5-d75d-4d73-9dd0-934adbfc9e25",
+      "DisplayName": "Funkcijos_reiksmes",
+      "ColorIndex": 2
+    },
+    "ceb9bcd0-43a4-4ec8-bc01-45791755f971": {
+      "ProjectGuid": "ceb9bcd0-43a4-4ec8-bc01-45791755f971",
+      "DisplayName": "Sudetingas_if",
+      "ColorIndex": 3
+    },
+    "a9b70d37-64e2-4dea-b6ee-3d5f7f4108cb": {
+      "ProjectGuid": "a9b70d37-64e2-4dea-b6ee-3d5f7f4108cb",
+      "DisplayName": "Skaiciuotuvas",
+      "ColorIndex": 4
+    },
+    "5ba06d67-2dcc-4b71-91e4-a5c13489c013": {
+      "ProjectGuid": "5ba06d67-2dcc-4b71-91e4-a5c13489c013",
+      "DisplayName": "Metodai",
+      "ColorIndex": 5
+    },
+    "d3c4cc94-c4f3-4276-a62e-33785232aeb6": {
+      "ProjectGuid": "d3c4cc94-c4f3-4276-a62e-33785232aeb6",
+      "DisplayName": "Metodai_savarnkiska",
+      "ColorIndex": 6
+    },
+    "8d09e915-04fa-487a-8f68-45a248928369": {
+      "ProjectGuid": "8d09e915-04fa-487a-8f68-45a248928369",
+      "DisplayName": "SImboliai",
+      "ColorIndex": 7
+    },
+    "2a93febe-5bb4-447e-a43e-575eaf186378": {
+      "ProjectGuid": "2a93febe-5bb4-447e-a43e-575eaf186378",
+      "DisplayName": "Simboliai",
+      "ColorIndex": 8
+    },
+    "c4a42eb5-d807-43bc-94b3-81bad5a543ff": {
+      "ProjectGuid": "c4a42eb5-d807-43bc-94b3-81bad5a543ff",
+      "DisplayName": "Simboliai_string",
+      "ColorIndex": 9
+    },
+    "9f2e22ac-73e4-4ae1-a60d-619e0423608c": {
+      "ProjectGuid": "9f2e22ac-73e4-4ae1-a60d-619e0423608c",
+      "DisplayName": "Simboliai_dienos",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
