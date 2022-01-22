@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Klases\plyta_du\bin\Debug\plyta_du.exe.config
+D:\Programavimas2\Objetkinis programavimas\Klases\plyta_du\bin\Debug\plyta_du.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\plyta_du\bin\Debug\plyta_du.pdb
+D:\Programavimas2\Objetkinis programavimas\Klases\plyta_du\obj\Debug\plyta_du.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\plyta_du\obj\Debug\plyta_du.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\plyta_du\obj\Debug\plyta_du.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\plyta_du\obj\Debug\plyta_du.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\plyta_du\obj\Debug\plyta_du.pdb

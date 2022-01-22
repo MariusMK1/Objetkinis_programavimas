@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Klases\kelionės_kaina\bin\Debug\kelionės_kaina.exe.config
+D:\Programavimas2\Objetkinis programavimas\Klases\kelionės_kaina\bin\Debug\kelionės_kaina.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\kelionės_kaina\bin\Debug\kelionės_kaina.pdb
+D:\Programavimas2\Objetkinis programavimas\Klases\kelionės_kaina\obj\Debug\kelionės_kaina.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\kelionės_kaina\obj\Debug\kelionės_kaina.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\kelionės_kaina\obj\Debug\kelionės_kaina.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\kelionės_kaina\obj\Debug\kelionės_kaina.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\kelionės_kaina\obj\Debug\kelionės_kaina.pdb

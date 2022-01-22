@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Klases\Lietuvos_keliai\bin\Debug\Lietuvos_keliai.exe.config
+D:\Programavimas2\Objetkinis programavimas\Klases\Lietuvos_keliai\bin\Debug\Lietuvos_keliai.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\Lietuvos_keliai\bin\Debug\Lietuvos_keliai.pdb
+D:\Programavimas2\Objetkinis programavimas\Klases\Lietuvos_keliai\obj\Debug\Lietuvos_keliai.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\Lietuvos_keliai\obj\Debug\Lietuvos_keliai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\Lietuvos_keliai\obj\Debug\Lietuvos_keliai.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\Lietuvos_keliai\obj\Debug\Lietuvos_keliai.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\Lietuvos_keliai\obj\Debug\Lietuvos_keliai.pdb

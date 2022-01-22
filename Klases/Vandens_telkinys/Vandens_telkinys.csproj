@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D5DFB363-5C87-403B-8F61-529C5B0680A9}</ProjectGuid>
+    <ProjectGuid>{82BBD770-3BF3-4D18-A573-48F016093A69}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Plytos_ivestis</RootNamespace>
-    <AssemblyName>Plytos_ivestis</AssemblyName>
+    <RootNamespace>Vandens_telkinys</RootNamespace>
+    <AssemblyName>Vandens_telkinys</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -5,7 +5,17 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plyta", "plyta\plyta.csproj", "{8D80BB5E-A752-4F28-9E6D-47C1795698E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plytos_ivestis", "Plytos_ivestis\Plytos_ivestis.csproj", "{D5DFB363-5C87-403B-8F61-529C5B0680A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lietuvos_keliai", "Lietuvos_keliai\Lietuvos_keliai.csproj", "{A588CB9B-1022-4CA5-BB6E-221829E5AA96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plyta_du", "plyta_du\plyta_du.csproj", "{1488A3AA-B142-48CC-A93A-8C7F76816CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kelionės_kaina", "kelionės_kaina\kelionės_kaina.csproj", "{AA8C220E-4332-4688-970E-8143888ABB5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salė", "Salė\Salė.csproj", "{0597299F-E096-45C2-ADBA-EA921DC3F34F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pabaisos", "Pabaisos\Pabaisos.csproj", "{2CFC11BE-D97C-45F3-8E3D-28914FA70195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vandens_telkinys", "Vandens_telkinys\Vandens_telkinys.csproj", "{82BBD770-3BF3-4D18-A573-48F016093A69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +27,30 @@ Global
 		{8D80BB5E-A752-4F28-9E6D-47C1795698E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D80BB5E-A752-4F28-9E6D-47C1795698E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D80BB5E-A752-4F28-9E6D-47C1795698E8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D5DFB363-5C87-403B-8F61-529C5B0680A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5DFB363-5C87-403B-8F61-529C5B0680A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5DFB363-5C87-403B-8F61-529C5B0680A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5DFB363-5C87-403B-8F61-529C5B0680A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A588CB9B-1022-4CA5-BB6E-221829E5AA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A588CB9B-1022-4CA5-BB6E-221829E5AA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A588CB9B-1022-4CA5-BB6E-221829E5AA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A588CB9B-1022-4CA5-BB6E-221829E5AA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1488A3AA-B142-48CC-A93A-8C7F76816CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1488A3AA-B142-48CC-A93A-8C7F76816CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1488A3AA-B142-48CC-A93A-8C7F76816CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1488A3AA-B142-48CC-A93A-8C7F76816CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8C220E-4332-4688-970E-8143888ABB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8C220E-4332-4688-970E-8143888ABB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8C220E-4332-4688-970E-8143888ABB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8C220E-4332-4688-970E-8143888ABB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0597299F-E096-45C2-ADBA-EA921DC3F34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0597299F-E096-45C2-ADBA-EA921DC3F34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0597299F-E096-45C2-ADBA-EA921DC3F34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0597299F-E096-45C2-ADBA-EA921DC3F34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFC11BE-D97C-45F3-8E3D-28914FA70195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFC11BE-D97C-45F3-8E3D-28914FA70195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFC11BE-D97C-45F3-8E3D-28914FA70195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFC11BE-D97C-45F3-8E3D-28914FA70195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BBD770-3BF3-4D18-A573-48F016093A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BBD770-3BF3-4D18-A573-48F016093A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BBD770-3BF3-4D18-A573-48F016093A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BBD770-3BF3-4D18-A573-48F016093A69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

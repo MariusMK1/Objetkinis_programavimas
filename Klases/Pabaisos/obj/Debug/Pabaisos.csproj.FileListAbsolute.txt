@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Klases\Pabaisos\bin\Debug\Pabaisos.exe.config
+D:\Programavimas2\Objetkinis programavimas\Klases\Pabaisos\bin\Debug\Pabaisos.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\Pabaisos\bin\Debug\Pabaisos.pdb
+D:\Programavimas2\Objetkinis programavimas\Klases\Pabaisos\obj\Debug\Pabaisos.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\Pabaisos\obj\Debug\Pabaisos.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\Pabaisos\obj\Debug\Pabaisos.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\Pabaisos\obj\Debug\Pabaisos.pdb
+D:\Programavimas2\Objetkinis programavimas\Klases\Pabaisos\obj\Debug\Pabaisos.csproj.AssemblyReference.cache

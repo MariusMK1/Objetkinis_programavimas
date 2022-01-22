@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Plytos_ivestis")]
+[assembly: AssemblyTitle("Vandens_telkinys")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Plytos_ivestis")]
+[assembly: AssemblyProduct("Vandens_telkinys")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d5dfb363-5c87-403b-8f61-529c5b0680a9")]
+[assembly: Guid("82bbd770-3bf3-4d18-a573-48f016093a69")]
 
 // Version information for an assembly consists of the following four values:
 //

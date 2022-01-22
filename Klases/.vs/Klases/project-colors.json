@@ -20,7 +20,37 @@
       "ProjectGuid": "d5dfb363-5c87-403b-8f61-529c5b0680a9",
       "DisplayName": "Plytos_ivestis",
       "ColorIndex": 3
+    },
+    "a588cb9b-1022-4ca5-bb6e-221829e5aa96": {
+      "ProjectGuid": "a588cb9b-1022-4ca5-bb6e-221829e5aa96",
+      "DisplayName": "Lietuvos_keliai",
+      "ColorIndex": 4
+    },
+    "1488a3aa-b142-48cc-a93a-8c7f76816cf0": {
+      "ProjectGuid": "1488a3aa-b142-48cc-a93a-8c7f76816cf0",
+      "DisplayName": "plyta_du",
+      "ColorIndex": 5
+    },
+    "aa8c220e-4332-4688-970e-8143888abb5e": {
+      "ProjectGuid": "aa8c220e-4332-4688-970e-8143888abb5e",
+      "DisplayName": "kelionės_kaina",
+      "ColorIndex": 6
+    },
+    "0597299f-e096-45c2-adba-ea921dc3f34f": {
+      "ProjectGuid": "0597299f-e096-45c2-adba-ea921dc3f34f",
+      "DisplayName": "Salė",
+      "ColorIndex": 7
+    },
+    "2cfc11be-d97c-45f3-8e3d-28914fa70195": {
+      "ProjectGuid": "2cfc11be-d97c-45f3-8e3d-28914fa70195",
+      "DisplayName": "Pabaisos",
+      "ColorIndex": 8
+    },
+    "82bbd770-3bf3-4d18-a573-48f016093a69": {
+      "ProjectGuid": "82bbd770-3bf3-4d18-a573-48f016093a69",
+      "DisplayName": "Vandens_telkinys",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 10
 }

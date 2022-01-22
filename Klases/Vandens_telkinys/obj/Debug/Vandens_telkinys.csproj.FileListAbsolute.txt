@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Klases\Vandens_telkinys\bin\Debug\Vandens_telkinys.exe.config
+D:\Programavimas2\Objetkinis programavimas\Klases\Vandens_telkinys\bin\Debug\Vandens_telkinys.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\Vandens_telkinys\bin\Debug\Vandens_telkinys.pdb
+D:\Programavimas2\Objetkinis programavimas\Klases\Vandens_telkinys\obj\Debug\Vandens_telkinys.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\Vandens_telkinys\obj\Debug\Vandens_telkinys.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\Vandens_telkinys\obj\Debug\Vandens_telkinys.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Klases\Vandens_telkinys\obj\Debug\Vandens_telkinys.exe
+D:\Programavimas2\Objetkinis programavimas\Klases\Vandens_telkinys\obj\Debug\Vandens_telkinys.pdb

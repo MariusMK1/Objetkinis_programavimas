@@ -52,7 +52,7 @@ namespace plyta
             int k3;                             // Antro tipo plytų kiekis
             k3 = (int)(sienosIlgis * 1000 / p3.imtiIlgį() * sienosPlotis * 1000 / p3.imtiPlotį() * sienosAukštis * 1000 / p3.imtiAukštį());
             Console.WriteLine("Plytos aukštis: {0,3:d} \nPlytos plotis: {1, 4:d} \nplytos ilgis: {2, 5:d}\n", p3.imtiAukštį(), p3.imtiPlotį(), p3.imtiIlgį());
-            Console.WriteLine("3-o tipo plytų reikia: {0,6:d} \n", (4 * k2));
+            Console.WriteLine("3-o tipo plytų reikia: {0,6:d} \n", (4 * k3));
 
             // Čia apskaičiuojama su vienaSiena metodu
             Console.WriteLine("Atsakymai skaičiuojami per metodus!///////////////////////////////////////////");
