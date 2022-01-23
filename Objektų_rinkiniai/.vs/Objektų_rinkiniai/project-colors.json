@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9ab0b42-eaa7-4475-b490-45f6db001e0a": {
+      "ProjectGuid": "d9ab0b42-eaa7-4475-b490-45f6db001e0a",
+      "DisplayName": "Dviračiai",
+      "ColorIndex": 0
+    },
+    "0302c784-059a-4d87-9aa6-4590377948d6": {
+      "ProjectGuid": "0302c784-059a-4d87-9aa6-4590377948d6",
+      "DisplayName": "Turistai",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

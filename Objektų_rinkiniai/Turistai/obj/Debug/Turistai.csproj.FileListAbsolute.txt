@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Turistai\bin\Debug\Turistai.exe.config
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Turistai\bin\Debug\Turistai.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Turistai\bin\Debug\Turistai.pdb
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Turistai\obj\Debug\Turistai.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Turistai\obj\Debug\Turistai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Turistai\obj\Debug\Turistai.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Turistai\obj\Debug\Turistai.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Turistai\obj\Debug\Turistai.pdb

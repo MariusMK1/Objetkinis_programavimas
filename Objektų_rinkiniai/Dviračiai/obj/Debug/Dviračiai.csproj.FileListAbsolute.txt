@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Dviračiai\bin\Debug\Dviračiai.exe.config
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Dviračiai\bin\Debug\Dviračiai.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Dviračiai\bin\Debug\Dviračiai.pdb
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Dviračiai\obj\Debug\Dviračiai.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Dviračiai\obj\Debug\Dviračiai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Dviračiai\obj\Debug\Dviračiai.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Dviračiai\obj\Debug\Dviračiai.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Dviračiai\obj\Debug\Dviračiai.pdb

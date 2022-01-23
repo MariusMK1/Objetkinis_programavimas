@@ -1,0 +1,6 @@
+5
+Petras; 50.50;
+Antanas; 60;
+Jurgis; 30;
+Algis; 100.25;
+Julius; 80.50;
