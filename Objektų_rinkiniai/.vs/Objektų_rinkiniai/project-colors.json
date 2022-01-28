@@ -10,7 +10,17 @@
       "ProjectGuid": "0302c784-059a-4d87-9aa6-4590377948d6",
       "DisplayName": "Turistai",
       "ColorIndex": 1
+    },
+    "e3388b91-e70e-4570-956c-04d349df6225": {
+      "ProjectGuid": "e3388b91-e70e-4570-956c-04d349df6225",
+      "DisplayName": "Du_dviračių_punktai",
+      "ColorIndex": 2
+    },
+    "a265d53f-b904-42a8-8351-8f520de764ce": {
+      "ProjectGuid": "a265d53f-b904-42a8-8351-8f520de764ce",
+      "DisplayName": "Pinigų_kursas",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

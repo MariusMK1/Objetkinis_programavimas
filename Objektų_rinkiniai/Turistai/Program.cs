@@ -35,7 +35,7 @@ namespace Turistai
             Console.WriteLine("Turisto vardas    Pinigai");
             for(int i = 0; i < n; i++)
             {
-                Console.WriteLine("    {0}   \t{1,7:f2}\n", T[i].imtiVardą(), T[i].imtiPinigus());
+                Console.WriteLine("{0,-15}   {1,7:f2}", T[i].imtiVardą(), T[i].imtiPinigus());
             }
             double visoPinigų;                  // kiek iš viso pinigų turi turistai
             double vidurkisPinigų;              // kiek pinigų vidutiniškai turi
@@ -88,7 +88,7 @@ namespace Turistai
             double bendrosIšl = 0;
             for(int i = 0; i < n;i++)
             {
-                bendrosIšl += T[i].imtiPinigus() * 0.25;
+                bendrosIšl += Math.Floor(T[i].imtiPinigus() * 0.25);
             }
             return bendrosIšl;
         }

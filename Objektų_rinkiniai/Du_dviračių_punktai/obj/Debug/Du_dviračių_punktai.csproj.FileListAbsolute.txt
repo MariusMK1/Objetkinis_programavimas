@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Du_dviračių_punktai\bin\Debug\Du_dviračių_punktai.exe.config
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Du_dviračių_punktai\bin\Debug\Du_dviračių_punktai.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Du_dviračių_punktai\bin\Debug\Du_dviračių_punktai.pdb
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Du_dviračių_punktai\obj\Debug\Du_dviračių_punktai.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Du_dviračių_punktai\obj\Debug\Du_dviračių_punktai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Du_dviračių_punktai\obj\Debug\Du_dviračių_punktai.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Du_dviračių_punktai\obj\Debug\Du_dviračių_punktai.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Du_dviračių_punktai\obj\Debug\Du_dviračių_punktai.pdb

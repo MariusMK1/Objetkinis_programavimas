@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Pinigų_kursas\bin\Debug\Pinigų_kursas.exe.config
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Pinigų_kursas\bin\Debug\Pinigų_kursas.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Pinigų_kursas\bin\Debug\Pinigų_kursas.pdb
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Pinigų_kursas\obj\Debug\Pinigų_kursas.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Pinigų_kursas\obj\Debug\Pinigų_kursas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Pinigų_kursas\obj\Debug\Pinigų_kursas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Pinigų_kursas\obj\Debug\Pinigų_kursas.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Pinigų_kursas\obj\Debug\Pinigų_kursas.pdb
