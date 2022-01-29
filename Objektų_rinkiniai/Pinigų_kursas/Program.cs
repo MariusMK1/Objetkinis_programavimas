@@ -30,15 +30,38 @@ namespace Pinigų_kursas
         const string CFd2 = "D:\\Programavimas2\\Objetkinis programavimas\\Objektų_rinkiniai\\Pinigų_kursas\\bin\\Debug\\B.txt";
         static void Main(string[] args)
         {
+            // pirmojo žmogaus pinigų skaičiavimas
             Pinigai[] P = new Pinigai[Cn];
             int n;
             string vardas;
+            double eurai, euroCentai;
             Skaityti(CFd, P, out n, out vardas);
             Console.WriteLine("{0}", vardas);
             Console.WriteLine("Pingiai    centai    kursas");
             for (int i = 0; i < n; i++)
                 Console.WriteLine("{0,-10}  {1,3}    {2,7:f2}", P[i].imtiPinigus(), P[i].imtiCentus(), P[i].imtiKursą());
+            konvertuotiEurus(P, n, out eurai, out euroCentai);
+            Console.WriteLine("{0} turi {1} eurą ir {2,2:f0} centų", vardas, eurai, euroCentai);
+            Console.WriteLine();
 
+            // Antrojo žmogaus pinigų skaičiavimas
+            Pinigai[] P2 = new Pinigai[Cn];
+            int n2;
+            string vardas2;
+            double eurai2, euroCentai2;
+            Skaityti(CFd2, P2, out n2, out vardas2);
+            Console.WriteLine("{0}", vardas2);
+            Console.WriteLine("Pingiai    centai    kursas");
+            for (int i = 0; i < n2; i++)
+                Console.WriteLine("{0,-10}  {1,3}  {2,9:f2}", P2[i].imtiPinigus(), P2[i].imtiCentus(), P2[i].imtiKursą());
+            konvertuotiEurus(P2, n2, out eurai2, out euroCentai2);
+            Console.WriteLine("{0} turi {1} eurų ir {2,2:f0} centus", vardas2, eurai2, euroCentai2);
+            Console.WriteLine();
+
+            // Bendrai turi eurų
+            double bendraiEurai, bendraiEuroCentai;
+            bendraiTuriEuru(eurai, eurai2, euroCentai, euroCentai2, out bendraiEurai, out bendraiEuroCentai);
+            Console.WriteLine("{0} ir {1} bendrai turi {2} eurus ir {3,2:f0} centus", vardas, vardas2, bendraiEurai, bendraiEuroCentai);
         }
         /**
          @param fv - failo vardas, kuris nurodomas konstanta CFd
@@ -54,7 +77,7 @@ namespace Pinigų_kursas
                 line = reader.ReadLine();
                 string[] parts;
                 vardas = line;
-                line=reader.ReadLine();
+                line = reader.ReadLine();
                 n = int.Parse(line);
                 for (int i = 0; i < n; i++)
                 {
@@ -66,6 +89,23 @@ namespace Pinigų_kursas
                     P[i] = new Pinigai(pinigai, centai, kursas);
                 }
             }
+        }
+        static void konvertuotiEurus(Pinigai[] P, int n, out double eurai, out double euroCentai)
+        {
+            double bendraSuma = 0;
+            for(int i = 0; i < n;i++)
+            {
+                bendraSuma += ((P[i].imtiPinigus() + P[i].imtiCentus() / 100) * P[i].imtiKursą());
+            }
+            eurai = Math.Floor(bendraSuma);
+            euroCentai = (bendraSuma - eurai) * 100;
+
+        }
+        static void bendraiTuriEuru(double eurai, double eurai2, double euroCentai, double euroCentai2, out double bendraiEurai, out double bendraiEuroCentai )
+        {
+            double bendrai = eurai + eurai2 + (euroCentai + euroCentai2) / 100;
+            bendraiEurai = Math.Floor(bendrai);
+            bendraiEuroCentai = (bendrai - bendraiEurai) * 100;
         }
     }
 }
