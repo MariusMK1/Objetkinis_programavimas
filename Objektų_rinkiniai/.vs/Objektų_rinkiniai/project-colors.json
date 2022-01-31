@@ -20,7 +20,17 @@
       "ProjectGuid": "a265d53f-b904-42a8-8351-8f520de764ce",
       "DisplayName": "Pinigų_kursas",
       "ColorIndex": 3
+    },
+    "77dfb7ac-38ac-46bd-855d-a9974f6a4ff2": {
+      "ProjectGuid": "77dfb7ac-38ac-46bd-855d-a9974f6a4ff2",
+      "DisplayName": "Dviračiai_3",
+      "ColorIndex": 4
+    },
+    "8bab9f62-82d6-437a-969c-2143d3095d37": {
+      "ProjectGuid": "8bab9f62-82d6-437a-969c-2143d3095d37",
+      "DisplayName": "Firmos_automobiliai",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Du_dviračių_punktai", "Du
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinigų_kursas", "Pinigų_kursas\Pinigų_kursas.csproj", "{A265D53F-B904-42A8-8351-8F520DE764CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dviračiai_3", "Dviračiai_3\Dviračiai_3.csproj", "{77DFB7AC-38AC-46BD-855D-A9974F6A4FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firmos_automobiliai", "Firmos_automobiliai\Firmos_automobiliai.csproj", "{8BAB9F62-82D6-437A-969C-2143D3095D37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{A265D53F-B904-42A8-8351-8F520DE764CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A265D53F-B904-42A8-8351-8F520DE764CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A265D53F-B904-42A8-8351-8F520DE764CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DFB7AC-38AC-46BD-855D-A9974F6A4FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DFB7AC-38AC-46BD-855D-A9974F6A4FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DFB7AC-38AC-46BD-855D-A9974F6A4FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DFB7AC-38AC-46BD-855D-A9974F6A4FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BAB9F62-82D6-437A-969C-2143D3095D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAB9F62-82D6-437A-969C-2143D3095D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAB9F62-82D6-437A-969C-2143D3095D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAB9F62-82D6-437A-969C-2143D3095D37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
