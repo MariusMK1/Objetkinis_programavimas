@@ -30,7 +30,17 @@
       "ProjectGuid": "8bab9f62-82d6-437a-969c-2143d3095d37",
       "DisplayName": "Firmos_automobiliai",
       "ColorIndex": 5
+    },
+    "6d41741f-81b3-4f41-b17e-8a1524fcc211": {
+      "ProjectGuid": "6d41741f-81b3-4f41-b17e-8a1524fcc211",
+      "DisplayName": "Degalų_sąnaudos",
+      "ColorIndex": 6
+    },
+    "4d7e1fb2-dcc5-4f89-bccd-7cc9ea395cbd": {
+      "ProjectGuid": "4d7e1fb2-dcc5-4f89-bccd-7cc9ea395cbd",
+      "DisplayName": "Salė",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

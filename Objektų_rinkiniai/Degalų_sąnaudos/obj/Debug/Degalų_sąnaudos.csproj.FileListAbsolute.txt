@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Degalų_sąnaudos\obj\Debug\Degalų_sąnaudos.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Degalų_sąnaudos\obj\Debug\Degalų_sąnaudos.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Degalų_sąnaudos\bin\Debug\Degalų_sąnaudos.exe.config
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Degalų_sąnaudos\bin\Debug\Degalų_sąnaudos.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Degalų_sąnaudos\bin\Debug\Degalų_sąnaudos.pdb
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Degalų_sąnaudos\obj\Debug\Degalų_sąnaudos.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Degalų_sąnaudos\obj\Debug\Degalų_sąnaudos.pdb

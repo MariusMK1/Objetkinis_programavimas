@@ -25,8 +25,8 @@ namespace Firmos_automobiliai
     }
     internal class Program
     {
-        const string CFd = "D:\\Programavimas2\\Objetkinis programavimas\\Objektų_rinkiniai\\Firmos_automobiliai\\bin\\Debug\\Duom.txt";
-        const string CFrez = "D:\\Programavimas2\\Objetkinis programavimas\\Objektų_rinkiniai\\Firmos_automobiliai\\bin\\Debug\\Rez.txt";
+        const string CFd = "D:\\Programavimas2\\Objetkinis programavimas\\Objektų_rinkiniai\\Degalų_sąnaudos\\bin\\Debug\\Duom.txt";
+        const string CFrez = "D:\\Programavimas2\\Objetkinis programavimas\\Objektų_rinkiniai\\Degalų_sąnaudos\\bin\\Debug\\Rez.txt";
         static void Main(string[] args)
         {
             Auto[] A = new Auto[100];
@@ -38,6 +38,15 @@ namespace Firmos_automobiliai
                 File.Delete(CFrez);
             Skaityti(CFd, A, out na);
             Spausdinti(CFrez, A, na);
+
+            using (var fr = File.AppendText(CFrez))
+            {
+                fr.WriteLine("Vidutinės degalų sąnaudos: {0,7:f2} litro/100 km", vidSąnaudos(A, na));
+            }
+            using (var fr = File.AppendText(CFrez))
+            {
+                fr.WriteLine("Dyzelinių automobilių yra {0} vienetai", dyzeliniaiAuto(A, na));
+            }
         }
         static void Skaityti(string Fd, Auto[] A, out int kiek)
         {
@@ -76,11 +85,32 @@ namespace Firmos_automobiliai
                 for (int i = 0; i < nkiek; i++)
                 {
                     tarp = A[i];
-                    fr.WriteLine("| {0,-3} |{1,-15}| {2,-9}   |    {3,16:f2}  |",i+1, tarp.imtiPav(), tarp.imtiDegalus(), tarp.imtiSąnaudas());
+                    fr.WriteLine("| {0,-3} |{1,-15}| {2,-9}   |    {3,16:f2}  |", i + 1, tarp.imtiPav(), tarp.imtiDegalus(), tarp.imtiSąnaudas());
                 }
                 fr.WriteLine("--------------------------------------------------------------");
                 fr.WriteLine();
             }
+        }
+        static double vidSąnaudos(Auto[] A, int kiek)
+        {
+            double sum = 0;
+            for (int i = 0; i < kiek; i++)
+            {
+                sum += A[i].imtiSąnaudas();
+            }   
+            return sum / kiek;
+        }
+        static int dyzeliniaiAuto(Auto[] A, int kiek)
+        {
+            int sum = 0;
+            for (int i = 0; i < kiek; i++)
+            {
+                if(A[i].imtiDegalus() == "Dyzelinas")
+                {
+                    sum++;
+                }
+            }
+            return sum;
         }
     }
 }

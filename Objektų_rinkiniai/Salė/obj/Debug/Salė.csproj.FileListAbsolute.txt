@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Salė\obj\Debug\Salė.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Salė\obj\Debug\Salė.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Salė\obj\Debug\Salė.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Salė\bin\Debug\Salė.exe.config
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Salė\bin\Debug\Salė.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Salė\bin\Debug\Salė.pdb
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Salė\obj\Debug\Salė.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Salė\obj\Debug\Salė.pdb

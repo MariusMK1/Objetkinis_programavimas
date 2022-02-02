@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dviračiai_3", "Dviračiai_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firmos_automobiliai", "Firmos_automobiliai\Firmos_automobiliai.csproj", "{8BAB9F62-82D6-437A-969C-2143D3095D37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degalų_sąnaudos", "Degalų_sąnaudos\Degalų_sąnaudos.csproj", "{6D41741F-81B3-4F41-B17E-8A1524FCC211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salė", "Salė\Salė.csproj", "{4D7E1FB2-DCC5-4F89-BCCD-7CC9EA395CBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{8BAB9F62-82D6-437A-969C-2143D3095D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BAB9F62-82D6-437A-969C-2143D3095D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BAB9F62-82D6-437A-969C-2143D3095D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D41741F-81B3-4F41-B17E-8A1524FCC211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D41741F-81B3-4F41-B17E-8A1524FCC211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D41741F-81B3-4F41-B17E-8A1524FCC211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D41741F-81B3-4F41-B17E-8A1524FCC211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7E1FB2-DCC5-4F89-BCCD-7CC9EA395CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7E1FB2-DCC5-4F89-BCCD-7CC9EA395CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7E1FB2-DCC5-4F89-BCCD-7CC9EA395CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7E1FB2-DCC5-4F89-BCCD-7CC9EA395CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

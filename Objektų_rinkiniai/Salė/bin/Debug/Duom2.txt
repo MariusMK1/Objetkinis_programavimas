@@ -1,0 +1,7 @@
+Kėdilandas
+5
+Klevinė; 59.14; 0.24;
+Drebulinė; 45.89; 0.20;
+Plastikinė; 56.50; 0.32;
+Eglinė; 12.30; 0.27;
+Kaštoninė; 86.32; 0.15;

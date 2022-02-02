@@ -1,0 +1,17 @@
+Automobilių kiekis: 8
+Automobilių sąrašas:
+|-----|---------------|-------------|----------------------|
+|     |               |             |                      | 
+| El. |  Pavadinimas  |   Degalai   |  Sąnaudos (l/100 km) | 
+| Nr  |               |             |                      | 
+|-----|---------------|-------------|----------------------| 
+| 1   |Škoda fabia    | Benzinas    |                7.10  |
+| 2   |Opel Meriva    | Benzinas    |                7.50  |
+| 3   |Volkswagen Golf| Dyzelinas   |                6.30  |
+| 4   |Opel Astra     | Dyzelinas   |                6.10  |
+| 5   |Toyota Corolla | Benzinas    |                6.80  |
+| 6   |Toyota Yaris   | Benzinas    |                5.90  |
+| 7   |Peugeot 207    | Dyzelinas   |                5.50  |
+| 8   |Škoda Octavia  | Dyzelinas   |                7.30  |
+--------------------------------------------------------------
+

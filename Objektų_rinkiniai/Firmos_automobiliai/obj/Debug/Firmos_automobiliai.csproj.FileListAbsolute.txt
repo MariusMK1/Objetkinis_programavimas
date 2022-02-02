@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Firmos_automobiliai\obj\Debug\Firmos_automobiliai.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Firmos_automobiliai\obj\Debug\Firmos_automobiliai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Firmos_automobiliai\obj\Debug\Firmos_automobiliai.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Firmos_automobiliai\bin\Debug\Firmos_automobiliai.exe.config
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Firmos_automobiliai\bin\Debug\Firmos_automobiliai.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Firmos_automobiliai\bin\Debug\Firmos_automobiliai.pdb
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Firmos_automobiliai\obj\Debug\Firmos_automobiliai.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Firmos_automobiliai\obj\Debug\Firmos_automobiliai.pdb
