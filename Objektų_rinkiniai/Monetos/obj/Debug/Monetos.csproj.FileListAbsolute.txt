@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Monetos\obj\Debug\Monetos.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Monetos\obj\Debug\Monetos.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Monetos\obj\Debug\Monetos.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Monetos\bin\Debug\Monetos.exe.config
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Monetos\bin\Debug\Monetos.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Monetos\bin\Debug\Monetos.pdb
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Monetos\obj\Debug\Monetos.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Monetos\obj\Debug\Monetos.pdb

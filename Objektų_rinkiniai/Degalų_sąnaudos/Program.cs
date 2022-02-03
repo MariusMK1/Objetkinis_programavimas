@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Firmos_automobiliai
+namespace Degalų_sąnaudos
 {
     class Auto
     {

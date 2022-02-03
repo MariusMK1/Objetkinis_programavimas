@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Statybinės_prekės\obj\Debug\Statybinės_prekės.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Statybinės_prekės\obj\Debug\Statybinės_prekės.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Statybinės_prekės\bin\Debug\Statybinės_prekės.exe.config
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Statybinės_prekės\bin\Debug\Statybinės_prekės.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Statybinės_prekės\bin\Debug\Statybinės_prekės.pdb
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Statybinės_prekės\obj\Debug\Statybinės_prekės.exe
+D:\Programavimas2\Objetkinis programavimas\Objektų_rinkiniai\Statybinės_prekės\obj\Debug\Statybinės_prekės.pdb

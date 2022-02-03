@@ -1,0 +1,10 @@
+Algis
+7
+Vokietija; 0.1; 4.1;
+Prancūzija; 0.2; 5.74;
+Lietuva; 1; 7.5;
+Lietuva; 2; 8.5;
+Italija; 1; 7.5;
+Estija; 2; 8.5;
+Latvija; 1; 7.5
+ 

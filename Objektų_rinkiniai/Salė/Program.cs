@@ -141,7 +141,7 @@ namespace Salė
         /// </summary>
         /// <param name="K"></param>
         /// <param name="kiek"></param>
-        /// <param name="k" eilės numerion duomenų faile radimas></param>
+        /// <param name="k"> eilės numerion duomenų faile radimas</param>
         static void didžiausiasPlotas(Kėdė[] K, int kiek, out int k)
         {
             k = 0;

@@ -40,7 +40,17 @@
       "ProjectGuid": "4d7e1fb2-dcc5-4f89-bccd-7cc9ea395cbd",
       "DisplayName": "Salė",
       "ColorIndex": 7
+    },
+    "096de309-0aee-48c9-95a1-4891f03cda82": {
+      "ProjectGuid": "096de309-0aee-48c9-95a1-4891f03cda82",
+      "DisplayName": "Monetos",
+      "ColorIndex": 8
+    },
+    "09395cea-398a-4fbc-bf53-a21dcbfb8c37": {
+      "ProjectGuid": "09395cea-398a-4fbc-bf53-a21dcbfb8c37",
+      "DisplayName": "Statybinės_prekės",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }

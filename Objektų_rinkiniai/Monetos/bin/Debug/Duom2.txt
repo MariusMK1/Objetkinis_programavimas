@@ -1,0 +1,9 @@
+Petras
+5
+Vokietija; 1; 7.5;
+Prancūzija; 0.5; 7.8;
+Lietuva; 1; 7.5;
+Lietuva; 0.2; 5.74;
+Italija; 1; 7.5;
+
+ 

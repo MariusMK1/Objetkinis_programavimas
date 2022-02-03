@@ -1,0 +1,14 @@
+Monetų kurių nominalas yra 1 sąrašas:
+|---------------|------------|--------|
+|               |            |        | 
+|  Kilmės šalis |  Nominalas | Svoris | 
+|               |            |        | 
+|---------------|------------|--------| 
+|Lietuva        |        1   |  7.50  |
+|Italija        |        1   |  7.50  |
+|Latvija        |        1   |  7.50  |
+|Vokietija      |        1   |  7.50  |
+|Lietuva        |        1   |  7.50  |
+|Italija        |        1   |  7.50  |
+---------------------------------------
+

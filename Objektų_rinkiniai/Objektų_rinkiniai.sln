@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degalų_sąnaudos", "Degal�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salė", "Salė\Salė.csproj", "{4D7E1FB2-DCC5-4F89-BCCD-7CC9EA395CBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monetos", "Monetos\Monetos.csproj", "{096DE309-0AEE-48C9-95A1-4891F03CDA82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statybinės_prekės", "Statybinės_prekės\Statybinės_prekės.csproj", "{09395CEA-398A-4FBC-BF53-A21DCBFB8C37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{4D7E1FB2-DCC5-4F89-BCCD-7CC9EA395CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D7E1FB2-DCC5-4F89-BCCD-7CC9EA395CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D7E1FB2-DCC5-4F89-BCCD-7CC9EA395CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096DE309-0AEE-48C9-95A1-4891F03CDA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096DE309-0AEE-48C9-95A1-4891F03CDA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096DE309-0AEE-48C9-95A1-4891F03CDA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096DE309-0AEE-48C9-95A1-4891F03CDA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09395CEA-398A-4FBC-BF53-A21DCBFB8C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09395CEA-398A-4FBC-BF53-A21DCBFB8C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09395CEA-398A-4FBC-BF53-A21DCBFB8C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09395CEA-398A-4FBC-BF53-A21DCBFB8C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
