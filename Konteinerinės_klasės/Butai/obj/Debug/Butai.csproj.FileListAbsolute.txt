@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Butai\bin\Debug\Butai.exe.config
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Butai\bin\Debug\Butai.exe
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Butai\bin\Debug\Butai.pdb
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Butai\obj\Debug\Butai.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Butai\obj\Debug\Butai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Butai\obj\Debug\Butai.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Butai\obj\Debug\Butai.exe
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Butai\obj\Debug\Butai.pdb
