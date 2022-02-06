@@ -15,7 +15,12 @@
       "ProjectGuid": "9e14a131-0665-45a1-8113-d23e2455bd2f",
       "DisplayName": "Fakultetas",
       "ColorIndex": 2
+    },
+    "e4273f39-bb86-474c-838a-f5ea933571a4": {
+      "ProjectGuid": "e4273f39-bb86-474c-838a-f5ea933571a4",
+      "DisplayName": "Fakultetas_2",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
