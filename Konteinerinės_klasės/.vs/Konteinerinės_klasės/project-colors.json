@@ -5,7 +5,17 @@
       "ProjectGuid": "ebb926b1-1ace-4204-ae24-82d7204462b0",
       "DisplayName": "Sodas",
       "ColorIndex": 0
+    },
+    "3e8c4328-bce4-4203-ace9-ebff4834bc32": {
+      "ProjectGuid": "3e8c4328-bce4-4203-ace9-ebff4834bc32",
+      "DisplayName": "Butai",
+      "ColorIndex": 1
+    },
+    "9e14a131-0665-45a1-8113-d23e2455bd2f": {
+      "ProjectGuid": "9e14a131-0665-45a1-8113-d23e2455bd2f",
+      "DisplayName": "Fakultetas",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

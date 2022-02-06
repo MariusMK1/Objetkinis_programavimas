@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Fakultetas\bin\Debug\Fakultetas.exe.config
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Fakultetas\bin\Debug\Fakultetas.exe
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Fakultetas\bin\Debug\Fakultetas.pdb
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Fakultetas\obj\Debug\Fakultetas.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Fakultetas\obj\Debug\Fakultetas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Fakultetas\obj\Debug\Fakultetas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Fakultetas\obj\Debug\Fakultetas.exe
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Fakultetas\obj\Debug\Fakultetas.pdb
