@@ -130,7 +130,6 @@ class Studentas
                 else i++;
             }
         }
-
     }
     internal class Program
     {

@@ -1,0 +1,40 @@
+Tiksliūjų mokslų fakultetas
+--------------------------------------------------------------------------------
+ Pavardė    Vardas      Grupė     Pažymių       Pažymiai              Vidurkis 
+                                  Skaičius                                     
+--------------------------------------------------------------------------------
+Petraitis    Jonas     IF-1/8         4        10  8  9  9               9.00
+Algaitis     Algis     IF-1/8         6        10  9  9  9  7  4         8.00
+Petraitis    Kazys     IF-1/8         4         9  9 10 10               9.50
+Algaitis     Rimas     IF-1/8         3         9  9  9                  9.00
+Petraitis    Vytas     IF-1/9         4        10  8  9  7               8.50
+Petraitis    Anupras   IF-1/9         4         9  8  7  6               7.50
+Petraitis    Vidas     IF-1/9         4         8  9  8  9               8.50
+Petraitis    Anzelmas  IF-1/9         5         8  9  9  9 10            9.00
+Petraitis    Šarūnas   IF-1/9         4        10  9 10  9               9.50
+-------------------------------------------------------------------------------
+Tiksliūjų mokslų fakultetas
+--------------------------------------------------------------------------------
+ Pavardė    Vardas      Grupė     Pažymių       Pažymiai              Vidurkis 
+                                  Skaičius                                     
+--------------------------------------------------------------------------------
+Petraitis    Šarūnas   IF-1/9         4        10  9 10  9               9.50
+Petraitis    Anzelmas  IF-1/9         5         8  9  9  9 10            9.00
+Petraitis    Vidas     IF-1/9         4         8  9  8  9               8.50
+Petraitis    Vytas     IF-1/9         4        10  8  9  7               8.50
+Petraitis    Anupras   IF-1/9         4         9  8  7  6               7.50
+-------------------------------------------------------------------------------
+Grupės vidurkis:  8.60
+
+Tiksliūjų mokslų fakultetas
+--------------------------------------------------------------------------------
+ Pavardė    Vardas      Grupė     Pažymių       Pažymiai              Vidurkis 
+                                  Skaičius                                     
+--------------------------------------------------------------------------------
+Petraitis    Kazys     IF-1/8         4         9  9 10 10               9.50
+Algaitis     Rimas     IF-1/8         3         9  9  9                  9.00
+Petraitis    Jonas     IF-1/8         4        10  8  9  9               9.00
+Algaitis     Algis     IF-1/8         6        10  9  9  9  7  4         8.00
+-------------------------------------------------------------------------------
+Grupės vidurkis:  8.88
+
