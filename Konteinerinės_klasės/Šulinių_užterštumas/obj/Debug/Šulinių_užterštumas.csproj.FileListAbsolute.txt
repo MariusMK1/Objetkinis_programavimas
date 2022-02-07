@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Šulinių_užterštumas\bin\Debug\Šulinių_užterštumas.exe.config
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Šulinių_užterštumas\bin\Debug\Šulinių_užterštumas.exe
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Šulinių_užterštumas\bin\Debug\Šulinių_užterštumas.pdb
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Šulinių_užterštumas\obj\Debug\Šulinių_užterštumas.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Šulinių_užterštumas\obj\Debug\Šulinių_užterštumas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Šulinių_užterštumas\obj\Debug\Šulinių_užterštumas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Šulinių_užterštumas\obj\Debug\Šulinių_užterštumas.exe
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Šulinių_užterštumas\obj\Debug\Šulinių_užterštumas.pdb

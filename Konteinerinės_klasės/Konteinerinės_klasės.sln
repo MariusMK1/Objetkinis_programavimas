@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakultetas", "Fakultetas\Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakultetas_2", "Fakultetas_2\Fakultetas_2.csproj", "{E4273F39-BB86-474C-838A-F5EA933571A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Šulinių_užterštumas", "Šulinių_užterštumas\Šulinių_užterštumas.csproj", "{2E0823D2-EDE6-443E-B04D-310813ED3883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E4273F39-BB86-474C-838A-F5EA933571A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4273F39-BB86-474C-838A-F5EA933571A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4273F39-BB86-474C-838A-F5EA933571A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0823D2-EDE6-443E-B04D-310813ED3883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0823D2-EDE6-443E-B04D-310813ED3883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0823D2-EDE6-443E-B04D-310813ED3883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0823D2-EDE6-443E-B04D-310813ED3883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

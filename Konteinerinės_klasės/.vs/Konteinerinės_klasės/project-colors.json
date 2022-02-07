@@ -20,7 +20,12 @@
       "ProjectGuid": "e4273f39-bb86-474c-838a-f5ea933571a4",
       "DisplayName": "Fakultetas_2",
       "ColorIndex": 3
+    },
+    "2e0823d2-ede6-443e-b04d-310813ed3883": {
+      "ProjectGuid": "2e0823d2-ede6-443e-b04d-310813ed3883",
+      "DisplayName": "Šulinių_užterštumas",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

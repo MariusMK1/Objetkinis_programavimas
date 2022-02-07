@@ -1,0 +1,63 @@
+Pirmas duomenų failas
+------------------------------------------------------------------ 
+|      Adresas       |     Miestas    |        Šulinio           |
+|                    |                | Gylis |Skersmuo| Nutritai| 
+------------------------------------------------------------------ 
+|33 Theatre Street   | Lilburn        | 3.50  | 1.20   | 56.00   |
+|6  Nursery Lane     | Addingham      | 3.00  | 1.00   | 45.00   |
+|8  Vytauto pr       | Stoke Gifford  | 6.00  | 1.00   | 70.00   |
+|6  Vytauto pr       | Bristol        | 3.00  | 2.00   | 65.00   |
+|19 Vytauto pr       | Chertsey       | 4.00  | 1.80   | 60.00   |
+|30 The Crescent     | Nunthorpe      | 4.50  | 1.30   | 52.00   |
+|15 Kennett Lane     | Chertsey       | 5.00  | 0.80   | 58.00   |
+------------------------------------------------------------------ 
+
+
+Antras duomenų failas
+------------------------------------------------------------------ 
+|      Adresas       |     Miestas    |        Šulinio           |
+|                    |                | Gylis |Skersmuo| Nutritai| 
+------------------------------------------------------------------ 
+|6  Vytauto pr       | Bristol        | 2.00  | 2.00   | 65.00   |
+|5  Monarch Close    | Crawley        | 5.50  | 2.50   | 80.00   |
+|33 Medlar Clos      | Bristol        | 5.00  | 1.30   | 81.00   |
+|3  Vytauto pr       | Drewsteignton  | 2.50  | 2.00   | 65.00   |
+------------------------------------------------------------------ 
+
+
+Bendras šulinių sąrašas
+------------------------------------------------------------------ 
+|      Adresas       |     Miestas    |        Šulinio           |
+|                    |                | Gylis |Skersmuo| Nutritai| 
+------------------------------------------------------------------ 
+|33 Theatre Street   | Lilburn        | 3.50  | 1.20   | 56.00   |
+|6  Nursery Lane     | Addingham      | 3.00  | 1.00   | 45.00   |
+|8  Vytauto pr       | Stoke Gifford  | 6.00  | 1.00   | 70.00   |
+|6  Vytauto pr       | Bristol        | 3.00  | 2.00   | 65.00   |
+|19 Vytauto pr       | Chertsey       | 4.00  | 1.80   | 60.00   |
+|30 The Crescent     | Nunthorpe      | 4.50  | 1.30   | 52.00   |
+|15 Kennett Lane     | Chertsey       | 5.00  | 0.80   | 58.00   |
+|6  Vytauto pr       | Bristol        | 2.00  | 2.00   | 65.00   |
+|5  Monarch Close    | Crawley        | 5.50  | 2.50   | 80.00   |
+|33 Medlar Clos      | Bristol        | 5.00  | 1.30   | 81.00   |
+|3  Vytauto pr       | Drewsteignton  | 2.50  | 2.00   | 65.00   |
+------------------------------------------------------------------ 
+
+
+Giliausio šulinio duomenys:
+|8  Vytauto pr       | Stoke Gifford  | 6.00  | 1.00   | 70.00   |
+
+6 šuliniuose yra viršijama nitritų norma
+Sarašas tik su tam tikra gatve
+------------------------------------------------------------------ 
+|      Adresas       |     Miestas    |        Šulinio           |
+|                    |                | Gylis |Skersmuo| Nutritai| 
+------------------------------------------------------------------ 
+|19 Vytauto pr       | Chertsey       | 4.00  | 1.80   | 60.00   |
+|6  Vytauto pr       | Bristol        | 3.00  | 2.00   | 65.00   |
+|3  Vytauto pr       | Drewsteignton  | 2.50  | 2.00   | 65.00   |
+|6  Vytauto pr       | Bristol        | 2.00  | 2.00   | 65.00   |
+|8  Vytauto pr       | Stoke Gifford  | 6.00  | 1.00   | 70.00   |
+------------------------------------------------------------------ 
+
+

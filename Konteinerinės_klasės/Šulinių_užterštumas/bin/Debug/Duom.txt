@@ -1,0 +1,7 @@
+33, Theatre Street, Lilburn, 3.5, 1.2, 56
+6, Nursery Lane, Addingham, 3, 1, 45
+8, Vytauto pr, Stoke Gifford, 6, 1, 70
+6, Vytauto pr, Bristol, 3, 2, 65
+19, Vytauto pr, Chertsey, 4, 1.8, 60 
+30, The Crescent, Nunthorpe, 4.5, 1.3, 52
+15, Kennett Lane, Chertsey, 5, 0.8, 58

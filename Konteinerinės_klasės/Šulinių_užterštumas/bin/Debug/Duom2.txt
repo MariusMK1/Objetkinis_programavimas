@@ -1,0 +1,4 @@
+6, Vytauto pr, Bristol, 2, 2, 65
+5, Monarch Close, Crawley, 5.5, 2.5, 80 
+33, Medlar Clos, Bristol, 5, 1.3, 81
+3, Vytauto pr, Drewsteignton, 2.5, 2, 65
