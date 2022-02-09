@@ -1,0 +1,7 @@
+200000; 54; 1.2; Kas metus
+10000; 100; 2.1; Kas mėnesį
+250000; 42; 1.5; Termino pabaigoje
+25000; 54; 1.8; Kas metus
+10000; 99; 2.4; Kas metus
+60000; 250; 1.6; Termino pabaigoje
+30000; 200; 2.2; Kas mėnesį

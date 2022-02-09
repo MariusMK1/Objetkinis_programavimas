@@ -1,7 +1,6 @@
 D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Sodas\bin\Debug\Sodas.exe.config
 D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Sodas\bin\Debug\Sodas.exe
 D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Sodas\bin\Debug\Sodas.pdb
-D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Sodas\obj\Debug\Sodas.csproj.AssemblyReference.cache
 D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Sodas\obj\Debug\Sodas.csproj.SuggestedBindingRedirects.cache
 D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Sodas\obj\Debug\Sodas.csproj.CoreCompileInputs.cache
 D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Sodas\obj\Debug\Sodas.exe

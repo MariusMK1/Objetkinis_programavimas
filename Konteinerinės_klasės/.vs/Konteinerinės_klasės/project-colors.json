@@ -25,7 +25,12 @@
       "ProjectGuid": "2e0823d2-ede6-443e-b04d-310813ed3883",
       "DisplayName": "Šulinių_užterštumas",
       "ColorIndex": 4
+    },
+    "206e6356-3d86-40e8-929b-ece3310fc70d": {
+      "ProjectGuid": "206e6356-3d86-40e8-929b-ece3310fc70d",
+      "DisplayName": "Indėliai",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
