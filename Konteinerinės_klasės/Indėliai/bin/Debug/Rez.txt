@@ -50,15 +50,3 @@ Didžiausias indėlis yra:
 
 Bendra suma kurią bankas turės išmokėti: 4320536.82 Eurai
 
-Indėlių sąrašas išfiltruotas pagal norimą palūkanų apskaičiavimo būdą
-------------------------------------------------------------------------------------------------------- 
-| Indėlis | Terminas | Palūkanos | Kas kiek laiko perskaičiuojama | Galutinė suma po termino pabaigos |
-------------------------------------------------------------------------------------------------------- 
-|20000    |    150   |    2.2    |          Kas metus             |               25968.13            |
-|10000    |    99    |    2.4    |          Kas metus             |               12089.26            |
-|200000   |    54    |    1.2    |          Kas metus             |               209774.19           |
-|25000    |    54    |    1.8    |          Kas metus             |               26849.19            |
-|150000   |    36    |    1.8    |          Kas metus             |               158246.67           |
-------------------------------------------------------------------------------------------------------- 
-
-

@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Bukletai\bin\Debug\Bukletai.exe.config
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Bukletai\bin\Debug\Bukletai.exe
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Bukletai\bin\Debug\Bukletai.pdb
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Bukletai\obj\Debug\Bukletai.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Bukletai\obj\Debug\Bukletai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Bukletai\obj\Debug\Bukletai.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Bukletai\obj\Debug\Bukletai.exe
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Bukletai\obj\Debug\Bukletai.pdb
