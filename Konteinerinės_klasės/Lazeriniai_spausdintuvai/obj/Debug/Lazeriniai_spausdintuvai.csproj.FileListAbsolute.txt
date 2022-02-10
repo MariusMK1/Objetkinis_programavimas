@@ -1,0 +1,3 @@
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Lazeriniai_spausdintuvai\obj\Debug\Lazeriniai_spausdintuvai.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Lazeriniai_spausdintuvai\obj\Debug\Lazeriniai_spausdintuvai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Konteinerinės_klasės\Lazeriniai_spausdintuvai\obj\Debug\Lazeriniai_spausdintuvai.csproj.CoreCompileInputs.cache

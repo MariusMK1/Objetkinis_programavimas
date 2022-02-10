@@ -30,7 +30,17 @@
       "ProjectGuid": "206e6356-3d86-40e8-929b-ece3310fc70d",
       "DisplayName": "Indėliai",
       "ColorIndex": 5
+    },
+    "b62d8de1-d36b-40e6-abf1-a98fac7bd208": {
+      "ProjectGuid": "b62d8de1-d36b-40e6-abf1-a98fac7bd208",
+      "DisplayName": "Bukletai",
+      "ColorIndex": 6
+    },
+    "8b81e6ce-569d-4bb3-9e29-6206881ee3cd": {
+      "ProjectGuid": "8b81e6ce-569d-4bb3-9e29-6206881ee3cd",
+      "DisplayName": "Lazeriniai_spausdintuvai",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

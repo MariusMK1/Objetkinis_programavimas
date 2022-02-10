@@ -83,7 +83,6 @@ namespace Bukletai
                 for (int j = i + 1; j < n; j++)
                     if (Buk[j] <= min)
                     {
-                        //naudojamas užklotas operatorius <=
                         min = Buk[j];
                         im = j;
                     }
@@ -91,7 +90,6 @@ namespace Bukletai
                 Buk[i] = min;
             }
         }
-
     }
     internal class Program
     {
