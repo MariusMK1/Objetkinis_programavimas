@@ -36,8 +36,25 @@ namespace Lazeriniai_spausdintuvai
         public override string ToString()
         {
             string eilute;
-            eilute = string.Format("|    {0,-6}| {1,-6}|       {2,-8}|   {3,-5}| {4,-5} |", gamintojas, modelis, Vsparta, Dsparta, ppsl);
+            eilute = string.Format("|  {0,-10}| {1,-8}|     {2,-6}|    {3,-6}|        {4,-10} |", gamintojas, modelis, Vsparta, Dsparta, ppsl);
             return eilute;
+        }
+        public bool ArSpausdinaDvipusiu()
+        {
+            return ( Dsparta > 0);
+        }
+        public int ImtiVspartą() { return Vsparta; }
+        public static bool operator <=(Spausdintuvas Sp1, Spausdintuvas Sp2)
+        {
+            int g = String.Compare(Sp1.gamintojas, Sp2.gamintojas, StringComparison.CurrentCulture);
+            int p = String.Compare(Sp1.modelis, Sp2.modelis, StringComparison.CurrentCulture);
+            return ((g < 0) || (g == 0) && (p < 0));
+        }
+        public static bool operator >=(Spausdintuvas Sp1, Spausdintuvas Sp2)
+        {
+            int g = String.Compare(Sp1.gamintojas, Sp2.gamintojas, StringComparison.CurrentCulture);
+            int p = String.Compare(Sp1.modelis, Sp2.modelis, StringComparison.CurrentCulture);
+            return ((g > 0) || (g == 0) && (p > 0));
         }
     }
     class Parduotuvė
@@ -60,22 +77,22 @@ namespace Lazeriniai_spausdintuvai
         /** Padeda į spausdintuvų objektų masyvą naują bukletą ir masyvo dydį padidina vienetu.
         @param šul - šulinių objektas */
         public void Dėti(Spausdintuvas Spa) { Sp[n++] = Spa; }
-        //public void Rikiuoti()
-        //{
-        //    for (int i = 0; i < n - 1; i++)
-        //    {
-        //        Spausdintuvas min = Sp[i];
-        //        int im = i;
-        //        for (int j = i + 1; j < n; j++)
-        //            if (Sp[j] <= min)
-        //            {
-        //                min = Sp[j];
-        //                im = j;
-        //            }
-        //        Sp[im] = Sp[i];
-        //        Sp[i] = min;
-        //    }
-        //}
+        public void Rikiuoti()
+        {
+            for (int i = 0; i < n - 1; i++)
+            {
+                Spausdintuvas min = Sp[i];
+                int im = i;
+                for (int j = i + 1; j < n; j++)
+                    if (Sp[j] <= min)
+                    {
+                        min = Sp[j];
+                        im = j;
+                    }
+                Sp[im] = Sp[i];
+                Sp[i] = min;
+            }
+        }
     }
     internal class Program
     {
@@ -98,6 +115,14 @@ namespace Lazeriniai_spausdintuvai
             Spausdinti(parduotuvė2, CFrez, "Antras duomenų failas");
             Formuoti(parduotuvė, parduotuvė3);
             Formuoti(parduotuvė2, parduotuvė3);
+            Spausdinti(parduotuvė3, CFrez, "Bendras duomenų failas");
+            SpausdintiAtsakymus(CFrez, parduotuvė3);
+
+            Formuoti2(parduotuvė3, parduotuvė4);
+            parduotuvė4.Rikiuoti();
+            Spausdinti(parduotuvė4, CFrez, "Atrinkti spausdintuvai kurie gali spausdinti ant abiejų pusių:");
+
+            Console.WriteLine("Programa baigė darbą!");
         }
         static void Skaityti(ref Parduotuvė parduotuvė, string fv)
         {
@@ -107,7 +132,7 @@ namespace Lazeriniai_spausdintuvai
             string[] lines = File.ReadAllLines(fv, Encoding.UTF8);
             foreach (string line in lines)
             {
-                string[] parts = line.Split(';');
+                string[] parts = line.Split(',');
                 gamintojas = parts[0].Trim();
                 modelis = parts[1].Trim();
                 Vsparta = int.Parse(parts[2].Trim());
@@ -119,7 +144,7 @@ namespace Lazeriniai_spausdintuvai
         }
         static void Spausdinti(Parduotuvė parduotuvė, string fv, string antraštė)
         {
-            string virsus = "------------------------------------------------------------- \r\n"
+            string virsus = "------------------------------------------------------------------- \r\n"
                 + "| Gamintojas | modelis | Vienpusio | Dvipusio |   Pirmo puslapio  |\r\n"
                 + "|            |         |   sparta  |  sparta  | spausdinimo laikas|\r\n"
                 + "------------------------------------------------------------------- ";
@@ -129,13 +154,53 @@ namespace Lazeriniai_spausdintuvai
                 fr.WriteLine(virsus);
                 for (int i = 0; i < parduotuvė.Imti(); i++)
                     fr.WriteLine("{0}", parduotuvė.Imti(i).ToString());
-                fr.WriteLine("------------------------------------------------------- \n\n");
+                fr.WriteLine("------------------------------------------------------------------- \n\n");
             }
         }
         static void Formuoti(Parduotuvė D, Parduotuvė R)
         {
             for (int i = 0; i < D.Imti(); i++)
                 R.Dėti(D.Imti(i));
+        }
+        static double KiekSpausdinaDvipusiu(Parduotuvė parduotuvė)
+        {
+            int kiek= 0;
+            for (int i = 0; i < parduotuvė.Imti(); i++)
+            {
+                if (parduotuvė.Imti(i).ArSpausdinaDvipusiu())
+                    kiek++;
+            }
+            return kiek;
+        }
+        static void SpausdintiAtsakymus(string fv, Parduotuvė parduotuvė)
+        {
+            using (var fr = File.AppendText(fv))
+            {
+                fr.Write("Spausdintuvų kurie spausdina ant abiejų pusių yra:");
+                fr.WriteLine(" {0} vnt", KiekSpausdinaDvipusiu(parduotuvė));
+                fr.WriteLine("");
+                fr.WriteLine("Sparčiausias vienpusis spausdintuvas yra:");
+                fr.WriteLine("{0}", parduotuvė.Imti(SparčiausiasVienpusis(parduotuvė)).ToString());
+                fr.WriteLine("");
+            }
+        }
+        static int SparčiausiasVienpusis(Parduotuvė parduotuvė)
+        {
+            double max = 0;
+            int maxIndex = 0;
+            for (int i = 0; i < parduotuvė.Imti(); i++)
+                if (max < parduotuvė.Imti(i).ImtiVspartą())
+                {
+                    max = parduotuvė.Imti(i).ImtiVspartą();
+                    maxIndex = i;
+                }
+            return maxIndex;
+        }
+        static void Formuoti2(Parduotuvė D, Parduotuvė R)
+        {
+            for (int i = 0; i < D.Imti(); i++)
+                if (D.Imti(i).ArSpausdinaDvipusiu())
+                    R.Dėti(D.Imti(i));
         }
     }
 }

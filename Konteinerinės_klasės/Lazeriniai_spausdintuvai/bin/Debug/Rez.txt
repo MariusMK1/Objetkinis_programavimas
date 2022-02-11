@@ -1,0 +1,63 @@
+Pirmas duomenų failas
+------------------------------------------------------------------- 
+| Gamintojas | modelis | Vienpusio | Dvipusio |   Pirmo puslapio  |
+|            |         |   sparta  |  sparta  | spausdinimo laikas|
+------------------------------------------------------------------- 
+|  Lazerina  | XSWETR  |     45    |    25    |        1.25       |
+|  Lazerina  | XCELDFI |     50    |    25    |        1.2        |
+|  Lazeer    | SKLFIE  |     45    |    0     |        1.3        |
+|  Lazeer    | XSBRES  |     60    |    30    |        1.01       |
+|  Bazerina  | XSDKWO  |     25    |    0     |        2.46       |
+------------------------------------------------------------------- 
+
+
+Antras duomenų failas
+------------------------------------------------------------------- 
+| Gamintojas | modelis | Vienpusio | Dvipusio |   Pirmo puslapio  |
+|            |         |   sparta  |  sparta  | spausdinimo laikas|
+------------------------------------------------------------------- 
+|  Lazeer    | XSWERGD |     55    |    30    |        1.05       |
+|  Lazeer    | XCELAWE |     40    |    0     |        1.5        |
+|  Lazerina  | SKLFLK  |     44    |    22    |        1.23       |
+|  Lazeer    | XSBRENK |     60    |    30    |        1.01       |
+|  Bazerina  | XSWDWO  |     30    |    0     |        2.01       |
+------------------------------------------------------------------- 
+
+
+Bendras duomenų failas
+------------------------------------------------------------------- 
+| Gamintojas | modelis | Vienpusio | Dvipusio |   Pirmo puslapio  |
+|            |         |   sparta  |  sparta  | spausdinimo laikas|
+------------------------------------------------------------------- 
+|  Lazerina  | XSWETR  |     45    |    25    |        1.25       |
+|  Lazerina  | XCELDFI |     50    |    25    |        1.2        |
+|  Lazeer    | SKLFIE  |     45    |    0     |        1.3        |
+|  Lazeer    | XSBRES  |     60    |    30    |        1.01       |
+|  Bazerina  | XSDKWO  |     25    |    0     |        2.46       |
+|  Lazeer    | XSWERGD |     55    |    30    |        1.05       |
+|  Lazeer    | XCELAWE |     40    |    0     |        1.5        |
+|  Lazerina  | SKLFLK  |     44    |    22    |        1.23       |
+|  Lazeer    | XSBRENK |     60    |    30    |        1.01       |
+|  Bazerina  | XSWDWO  |     30    |    0     |        2.01       |
+------------------------------------------------------------------- 
+
+
+Spausdintuvų kurie spausdina ant abiejų pusių yra: 6 vnt
+
+Sparčiausias vienpusis spausdintuvas yra:
+|  Lazeer    | XSBRES  |     60    |    30    |        1.01       |
+
+Atrinkti spausdintuvai kurie gali spausdinti ant abiejų pusių:
+------------------------------------------------------------------- 
+| Gamintojas | modelis | Vienpusio | Dvipusio |   Pirmo puslapio  |
+|            |         |   sparta  |  sparta  | spausdinimo laikas|
+------------------------------------------------------------------- 
+|  Lazeer    | XSBRENK |     60    |    30    |        1.01       |
+|  Lazeer    | XSBRES  |     60    |    30    |        1.01       |
+|  Lazeer    | XSWERGD |     55    |    30    |        1.05       |
+|  Lazerina  | SKLFLK  |     44    |    22    |        1.23       |
+|  Lazerina  | XCELDFI |     50    |    25    |        1.2        |
+|  Lazerina  | XSWETR  |     45    |    25    |        1.25       |
+------------------------------------------------------------------- 
+
+

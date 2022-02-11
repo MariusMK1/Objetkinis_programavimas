@@ -1,0 +1,5 @@
+Lazerina, XSWETR, 45, 25, 1.25
+Lazerina, XCELDFI, 50, 25, 1.2
+Lazeer, SKLFIE, 45, 0, 1.30
+Lazeer, XSBRES, 60, 30, 1.01
+Bazerina, XSDKWO, 25, 0, 2.46
