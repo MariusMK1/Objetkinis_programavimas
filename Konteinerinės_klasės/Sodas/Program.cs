@@ -76,7 +76,7 @@ namespace Sodas
                     Console.WriteLine("{0,5:d}    nėra obuolių", i + 1);
                 z = z + priaug;
             }
-            Console.WriteLine(" --------------------------\r\n");
+            Console.WriteLine(" ---------------------\r\n");
         }
         public int VisoObuolių(int metai)
         {
@@ -90,6 +90,17 @@ namespace Sodas
                 z = z + priaug;
             }
             return suma;
+        }
+        public int NurodytųMetųDerlius(int metai)
+        {
+            int z = kiek;
+            int y = 0;
+            for (int i = 0; i < metai; i++)
+            {
+                y = Dėsnis(koef1, koef2, z);
+                z = z + priaug;
+            }
+            return y;
         }
     }
 
@@ -134,12 +145,14 @@ namespace Sodas
             Console.Write("Įveskite metų reikšmę: ");
             metai = int.Parse(Console.ReadLine());
             Skaičiuoti(sodas, metai);
+            Spausdinti2(sodas, metai);
 
             int kiek;
             Console.Write("Sunokintas obuolių kiekis: ");
             kiek = int.Parse(Console.ReadLine());
             Formuoti(sodas, metai,ref sodasN, kiek);
             Spausdinti(sodasN);
+
 
             Console.WriteLine("Programa baigė darbą!");
         }
@@ -167,6 +180,17 @@ namespace Sodas
                     sodas.Dėti(ob);
                 }
             }
+        }
+        static void Spausdinti2 (Sodas sodas, int metai)
+        {
+            string virsus = "  Informacija apie derlių    \r\n"
+                + " --------------------------\r\n"
+                + " Oels Nr.  Obuolių kiekis\r\n"
+                + " --------------------------";
+            Console.WriteLine(virsus);
+            for (int i = 0; i < sodas.Imti(); i++)
+                Console.WriteLine("  {0, 4:d}           {1}", i + 1, sodas.Imti(i).NurodytųMetųDerlius(metai));
+            Console.WriteLine("--------------------------- \n\n");
         }
         static void Spausdinti (Sodas sodas)
         {
