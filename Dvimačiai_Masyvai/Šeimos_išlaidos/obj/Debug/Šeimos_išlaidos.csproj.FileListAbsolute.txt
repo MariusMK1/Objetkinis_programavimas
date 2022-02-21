@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Šeimos_išlaidos\bin\Debug\Šeimos_išlaidos.exe.config
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Šeimos_išlaidos\bin\Debug\Šeimos_išlaidos.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Šeimos_išlaidos\bin\Debug\Šeimos_išlaidos.pdb
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Šeimos_išlaidos\obj\Debug\Šeimos_išlaidos.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Šeimos_išlaidos\obj\Debug\Šeimos_išlaidos.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Šeimos_išlaidos\obj\Debug\Šeimos_išlaidos.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Šeimos_išlaidos\obj\Debug\Šeimos_išlaidos.pdb
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Šeimos_išlaidos\obj\Debug\Šeimos_išlaidos.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_bazė\bin\Debug\Prekybos_bazė.exe.config
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_bazė\bin\Debug\Prekybos_bazė.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_bazė\bin\Debug\Prekybos_bazė.pdb
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_bazė\obj\Debug\Prekybos_bazė.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_bazė\obj\Debug\Prekybos_bazė.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_bazė\obj\Debug\Prekybos_bazė.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_bazė\obj\Debug\Prekybos_bazė.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_bazė\obj\Debug\Prekybos_bazė.pdb

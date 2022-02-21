@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79453ecc-24c4-4c20-8b00-5e8bd97b616f": {
+      "ProjectGuid": "79453ecc-24c4-4c20-8b00-5e8bd97b616f",
+      "DisplayName": "Prekybos_bazė",
+      "ColorIndex": 0
+    },
+    "c374782a-00d5-4a55-a0ba-d10fa23f2bb0": {
+      "ProjectGuid": "c374782a-00d5-4a55-a0ba-d10fa23f2bb0",
+      "DisplayName": "Šeimos_išlaidos",
+      "ColorIndex": 1
+    },
+    "e7e80287-3a83-454b-860b-69c6d9daa9c0": {
+      "ProjectGuid": "e7e80287-3a83-454b-860b-69c6d9daa9c0",
+      "DisplayName": "Mokinių_laikas",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,30 @@
+Pradiniai duomenys:
+
+Kasų kiekis 6
+Darbo dienų kiekis 7
+Aptarnautų klientų kiekiai
+   5   9   8   7   3   5   6
+   6   9   8   2   1   5   2
+   8   9   0   8   8   8   8
+   4   5   6   2   3   4   3
+   5   6   9   1   0   5   8
+   3   4   5   4   6   5   7
+
+Rezultatai
+
+Viso aptarnauta: 220 klientų.
+Daugiausia pirkėjų aptarnavo (kasa): 3
+kasa nr 1 aptarnavo 43 klientų.
+kasa nr 2 aptarnavo 33 klientų.
+kasa nr 3 aptarnavo 49 klientų.
+kasa nr 4 aptarnavo 27 klientų.
+kasa nr 5 aptarnavo 34 klientų.
+kasa nr 6 aptarnavo 34 klientų.
+
+Diena nr. 1: aptarnavo klientų - 31
+Diena nr. 2: aptarnavo klientų - 42
+Diena nr. 3: aptarnavo klientų - 36
+Diena nr. 4: aptarnavo klientų - 24
+Diena nr. 5: aptarnavo klientų - 21
+Diena nr. 6: aptarnavo klientų - 32
+Diena nr. 7: aptarnavo klientų - 34
