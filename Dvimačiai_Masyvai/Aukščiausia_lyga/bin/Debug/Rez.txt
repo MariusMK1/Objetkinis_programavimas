@@ -1,0 +1,45 @@
+    Pradiniai duomenys
+
+Komandų kiekis 5
+
+Komandų sąrašas:
+---------------------------------------------------------
+Nr. Pavadinimas     Miestas       Pavardė         Vardas  
+---------------------------------------------------------
+
+1.   Atmosfera     Mazeikiai     Antanaitis      Antanas      
+---------------------------------------------------------
+2.   Žalgiris      Kaunas        Jonaitis        Jonas        
+---------------------------------------------------------
+3.   Zaibas        Siauliai      Petraitis       Petras       
+---------------------------------------------------------
+4.   Akvalangas    Klaipeda      Jurgaitis       Jurgis       
+---------------------------------------------------------
+5.   Lokys         Utena         Gintaraitis     Gintaras     
+---------------------------------------------------------
+Įvarčių lentelė
+
+   1.   -1   2   1   3   0 
+   2.    1  -1   0   2   1 
+   3.    0   2  -1   1   1 
+   4.    2   1   0  -1   3 
+   5.    3   2   1   2  -1 
+
+Mažiausiai pralaimėjimų turi:
+Atmosfera Zaibas Lokys 
+
+Komandų sąrašas su taškais
+--------------------------------------------------------------------
+Nr. Pavadinimas     Miestas       Pavardė         Vardas     Taškai
+--------------------------------------------------------------------
+
+1.   Atmosfera     Mazeikiai     Antanaitis      Antanas       9
+--------------------------------------------------------------------
+2.   Zaibas        Siauliai      Petraitis       Petras        7
+--------------------------------------------------------------------
+3.   Lokys         Utena         Gintaraitis     Gintaras      7
+--------------------------------------------------------------------
+4.   Akvalangas    Klaipeda      Jurgaitis       Jurgis        3
+--------------------------------------------------------------------
+5.   Žalgiris      Kaunas        Jonaitis        Jonas         3
+--------------------------------------------------------------------

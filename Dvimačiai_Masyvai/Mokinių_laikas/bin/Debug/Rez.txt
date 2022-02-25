@@ -63,5 +63,3 @@ Mokinių laikai, praleisti internete (po rikiavimo) per 5 dienas.
    5.  120 100  90  60  50 
    6.  120  80  60 140  70 
    7.  100 200 150 200  10 
-
-5 klasės mokiniai internete vidutiniškai praleido 330.00 minučių.

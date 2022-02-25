@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Aukščiausia_lyga\bin\Debug\Aukščiausia_lyga.exe.config
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Aukščiausia_lyga\bin\Debug\Aukščiausia_lyga.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Aukščiausia_lyga\bin\Debug\Aukščiausia_lyga.pdb
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Aukščiausia_lyga\obj\Debug\Aukščiausia_lyga.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Aukščiausia_lyga\obj\Debug\Aukščiausia_lyga.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Aukščiausia_lyga\obj\Debug\Aukščiausia_lyga.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Aukščiausia_lyga\obj\Debug\Aukščiausia_lyga.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Aukščiausia_lyga\obj\Debug\Aukščiausia_lyga.pdb

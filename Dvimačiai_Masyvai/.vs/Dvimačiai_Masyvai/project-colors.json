@@ -15,7 +15,12 @@
       "ProjectGuid": "e7e80287-3a83-454b-860b-69c6d9daa9c0",
       "DisplayName": "Mokinių_laikas",
       "ColorIndex": 2
+    },
+    "d528f373-144a-41ba-8ddd-265ed3f74a5c": {
+      "ProjectGuid": "d528f373-144a-41ba-8ddd-265ed3f74a5c",
+      "DisplayName": "Aukščiausia_lyga",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

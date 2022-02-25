@@ -5,3 +5,4 @@ D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Mokinių_laikas\ob
 D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Mokinių_laikas\obj\Debug\Mokinių_laikas.csproj.CoreCompileInputs.cache
 D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Mokinių_laikas\obj\Debug\Mokinių_laikas.exe
 D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Mokinių_laikas\obj\Debug\Mokinių_laikas.pdb
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Mokinių_laikas\obj\Debug\Mokinių_laikas.csproj.AssemblyReference.cache
