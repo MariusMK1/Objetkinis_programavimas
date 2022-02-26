@@ -20,7 +20,12 @@
       "ProjectGuid": "d528f373-144a-41ba-8ddd-265ed3f74a5c",
       "DisplayName": "Aukščiausia_lyga",
       "ColorIndex": 3
+    },
+    "a7f05eaa-d04f-4172-a5e0-b0e019dcf437": {
+      "ProjectGuid": "a7f05eaa-d04f-4172-a5e0-b0e019dcf437",
+      "DisplayName": "Leidinių_Prenumeratos",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

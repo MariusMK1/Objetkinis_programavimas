@@ -1,0 +1,51 @@
+Pradiniai leidinių duomenys:
+--------------------------------------------------------------------
+Nr.      Pavadinimas       Kaina  Bankas       Sąskaita    Procentai 
+--------------------------------------------------------------------
+
+1.   Žinios                 15   SwedBank   LT000000000000     15     
+--------------------------------------------------------------------
+2.   Iliustruota Istorija   20   SEB Bank   LT000000000111     20     
+--------------------------------------------------------------------
+3.   Iliustruotas Mokslas   25   SEB Bank   LT000000000111     25     
+--------------------------------------------------------------------
+4.   Zmones                 40   Citadele   LT088714450000     40     
+--------------------------------------------------------------------
+Pradiniai užsakymų duomenys
+
+   1.   10  17  20  25 
+   2.    8   8   7   1 
+   3.    9   7   3   2 
+   4.    4   5   8   1 
+   5.    3   6   9   3 
+   6.    2   2   5   0 
+   7.   14   8   4   1 
+   8.    9   9   1   2 
+   9.    2   3  10   1 
+  10.    0  11   9   2 
+
+Leidiniai su užsakymais:
+-------------------------------------------------------------------------------
+Nr.      Pavadinimas       Kaina  Bankas       Sąskaita    Procentai  Užsakymai
+-------------------------------------------------------------------------------
+
+1.   Žinios                 15   SwedBank   LT000000000000     15        61 
+-------------------------------------------------------------------------------
+2.   Iliustruota Istorija   20   SEB Bank   LT000000000111     20        76 
+-------------------------------------------------------------------------------
+3.   Iliustruotas Mokslas   25   SEB Bank   LT000000000111     25        76 
+-------------------------------------------------------------------------------
+4.   Zmones                 40   Citadele   LT088714450000     40        38 
+-------------------------------------------------------------------------------
+
+Lyderiaujantys leidiniai:
+(Iliustruota Istorija) (Iliustruotas Mokslas) 
+
+Leidinių kurie nebuvo užsakomi daugiau negu vieną dieną nėra
+
+
+Žinios SwedBank LT000000000000 turi būti pervesta 137.25
+Iliustruota Istorija SEB Bank LT000000000111 turi būti pervesta 304.00
+Iliustruotas Mokslas SEB Bank LT000000000111 turi būti pervesta 475.00
+Zmones Citadele LT088714450000 turi būti pervesta 608.00
+

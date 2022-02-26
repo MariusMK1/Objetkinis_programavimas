@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Leidinių_Prenumeratos\bin\Debug\Leidinių_Prenumeratos.exe.config
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Leidinių_Prenumeratos\bin\Debug\Leidinių_Prenumeratos.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Leidinių_Prenumeratos\bin\Debug\Leidinių_Prenumeratos.pdb
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Leidinių_Prenumeratos\obj\Debug\Leidinių_Prenumeratos.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Leidinių_Prenumeratos\obj\Debug\Leidinių_Prenumeratos.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Leidinių_Prenumeratos\obj\Debug\Leidinių_Prenumeratos.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Leidinių_Prenumeratos\obj\Debug\Leidinių_Prenumeratos.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Leidinių_Prenumeratos\obj\Debug\Leidinių_Prenumeratos.pdb
