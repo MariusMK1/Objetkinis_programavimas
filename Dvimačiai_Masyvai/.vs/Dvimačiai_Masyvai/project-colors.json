@@ -25,7 +25,12 @@
       "ProjectGuid": "a7f05eaa-d04f-4172-a5e0-b0e019dcf437",
       "DisplayName": "Leidinių_Prenumeratos",
       "ColorIndex": 4
+    },
+    "78478ccc-c685-469b-b95e-e7dfce32e6f5": {
+      "ProjectGuid": "78478ccc-c685-469b-b95e-e7dfce32e6f5",
+      "DisplayName": "Darbo_birža",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

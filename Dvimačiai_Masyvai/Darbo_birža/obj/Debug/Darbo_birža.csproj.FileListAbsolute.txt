@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Darbo_birža\bin\Debug\Darbo_birža.exe.config
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Darbo_birža\bin\Debug\Darbo_birža.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Darbo_birža\bin\Debug\Darbo_birža.pdb
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Darbo_birža\obj\Debug\Darbo_birža.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Darbo_birža\obj\Debug\Darbo_birža.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Darbo_birža\obj\Debug\Darbo_birža.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Darbo_birža\obj\Debug\Darbo_birža.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Darbo_birža\obj\Debug\Darbo_birža.pdb
