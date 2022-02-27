@@ -61,7 +61,7 @@ namespace Darbo_birža
         {
             n = 0;
             Miestai = new Miestas[CMaxEil];
-            m = 0;
+            m = 0;  
             N = new int[CMaxEil, CMaxSt];
             SN = new double[CMaxEil, CMaxSt];
         }

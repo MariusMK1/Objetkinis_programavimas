@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leidinių_Prenumeratos", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darbo_birža", "Darbo_birža\Darbo_birža.csproj", "{78478CCC-C685-469B-B95E-E7DFCE32E6F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prekybos_tinklas", "Prekybos_tinklas\Prekybos_tinklas.csproj", "{0CD790F3-E855-4E23-A6F3-1DC784655888}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{78478CCC-C685-469B-B95E-E7DFCE32E6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78478CCC-C685-469B-B95E-E7DFCE32E6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78478CCC-C685-469B-B95E-E7DFCE32E6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD790F3-E855-4E23-A6F3-1DC784655888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD790F3-E855-4E23-A6F3-1DC784655888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD790F3-E855-4E23-A6F3-1DC784655888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD790F3-E855-4E23-A6F3-1DC784655888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

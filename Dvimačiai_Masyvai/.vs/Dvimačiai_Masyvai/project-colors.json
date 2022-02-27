@@ -30,7 +30,12 @@
       "ProjectGuid": "78478ccc-c685-469b-b95e-e7dfce32e6f5",
       "DisplayName": "Darbo_birža",
       "ColorIndex": 5
+    },
+    "0cd790f3-e855-4e23-a6f3-1dc784655888": {
+      "ProjectGuid": "0cd790f3-e855-4e23-a6f3-1dc784655888",
+      "DisplayName": "Prekybos_tinklas",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

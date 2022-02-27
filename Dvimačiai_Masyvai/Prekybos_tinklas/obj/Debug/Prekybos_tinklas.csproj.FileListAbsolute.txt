@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_tinklas\bin\Debug\Prekybos_tinklas.exe.config
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_tinklas\bin\Debug\Prekybos_tinklas.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_tinklas\bin\Debug\Prekybos_tinklas.pdb
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_tinklas\obj\Debug\Prekybos_tinklas.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_tinklas\obj\Debug\Prekybos_tinklas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_tinklas\obj\Debug\Prekybos_tinklas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_tinklas\obj\Debug\Prekybos_tinklas.exe
+D:\Programavimas2\Objetkinis programavimas\Dvimačiai_Masyvai\Prekybos_tinklas\obj\Debug\Prekybos_tinklas.pdb
