@@ -35,7 +35,12 @@
       "ProjectGuid": "0cd790f3-e855-4e23-a6f3-1dc784655888",
       "DisplayName": "Prekybos_tinklas",
       "ColorIndex": 6
+    },
+    "312ec211-2814-4ca7-9c17-426f52c0a73a": {
+      "ProjectGuid": "312ec211-2814-4ca7-9c17-426f52c0a73a",
+      "DisplayName": "Gyvūnų_registras",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

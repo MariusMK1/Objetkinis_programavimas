@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f5d4bb7-305d-42f9-9b01-a2cd0f4da906": {
+      "ProjectGuid": "0f5d4bb7-305d-42f9-9b01-a2cd0f4da906",
+      "DisplayName": "Lab1.Exercises.Register",
+      "ColorIndex": 0
+    },
+    "f3def19f-5db4-4206-9340-952ea7b17e0e": {
+      "ProjectGuid": "f3def19f-5db4-4206-9340-952ea7b17e0e",
+      "DisplayName": "Dog",
+      "ColorIndex": 1
+    },
+    "65b34662-0ebb-4ed3-bded-c17c8ba634ca": {
+      "ProjectGuid": "65b34662-0ebb-4ed3-bded-c17c8ba634ca",
+      "DisplayName": "Gender",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

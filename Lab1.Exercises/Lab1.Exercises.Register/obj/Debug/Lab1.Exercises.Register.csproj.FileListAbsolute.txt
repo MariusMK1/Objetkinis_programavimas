@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Lab1.Exercises.Register\obj\Debug\Lab1.Exercises.Register.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Lab1.Exercises.Register\obj\Debug\Lab1.Exercises.Register.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Lab1.Exercises.Register\bin\Debug\Lab1.Exercises.Register.exe.config
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Lab1.Exercises.Register\bin\Debug\Lab1.Exercises.Register.exe
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Lab1.Exercises.Register\bin\Debug\Lab1.Exercises.Register.pdb
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Lab1.Exercises.Register\obj\Debug\Lab1.Exercises.Register.exe
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Lab1.Exercises.Register\obj\Debug\Lab1.Exercises.Register.pdb
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Lab1.Exercises.Register\obj\Debug\Lab1.Exercises.Register.csproj.AssemblyReference.cache
