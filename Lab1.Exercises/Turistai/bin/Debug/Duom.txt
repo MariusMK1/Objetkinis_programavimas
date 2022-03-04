@@ -1,0 +1,6 @@
+Jonas;Jonaitis;150.80
+Petras;Petraiti;500.30
+Simona;Simonytė;400.45
+Jurgis;Jurgaitis;500.30
+Algis;Algaitis;386.45
+Antanas;Antanaitis;453.25
