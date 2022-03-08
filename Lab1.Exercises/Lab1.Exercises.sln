@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1.Exercises.Register", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tourists", "Turistai\Tourists.csproj", "{FD8CE94E-01C5-438F-A52A-C43DBCE6ED49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muziejai", "Muziejai\Muziejai.csproj", "{025C61CB-FA1D-4EF1-85BB-19BDAEEC7D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDB", "IMDB\IMDB.csproj", "{39201F87-8D1B-4C1B-B6B3-1D59D29B4312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FD8CE94E-01C5-438F-A52A-C43DBCE6ED49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD8CE94E-01C5-438F-A52A-C43DBCE6ED49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD8CE94E-01C5-438F-A52A-C43DBCE6ED49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025C61CB-FA1D-4EF1-85BB-19BDAEEC7D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025C61CB-FA1D-4EF1-85BB-19BDAEEC7D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025C61CB-FA1D-4EF1-85BB-19BDAEEC7D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025C61CB-FA1D-4EF1-85BB-19BDAEEC7D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39201F87-8D1B-4C1B-B6B3-1D59D29B4312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39201F87-8D1B-4C1B-B6B3-1D59D29B4312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39201F87-8D1B-4C1B-B6B3-1D59D29B4312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39201F87-8D1B-4C1B-B6B3-1D59D29B4312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

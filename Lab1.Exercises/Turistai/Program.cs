@@ -10,6 +10,8 @@ namespace Turistai
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
+            Console.InputEncoding = Encoding.UTF8;
             List<Tourist> allTourists = InOutUtils.ReadTourists(@"Duom.txt");
             InOutUtils.PrintTourists(allTourists);
             InOutUtils.PrintTouristsWithContributions(allTourists);

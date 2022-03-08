@@ -1,0 +1,8 @@
+Aviacijos;Kaunas;Istorija;1;1;0;1;1;0;0;3.99;turi
+Literatūros;Vilnius;Mokslas;1;0;0;1;1;0;1;4.99;turi
+Maironio;Kaunas;Menas;1;1;1;1;1;0;0;2.99;neturi
+Aušros;Vilnius;Menas;1;1;0;0;1;1;1;1.99;turi
+Trakų;Vilnius;Istorija;0;1;0;1;1;1;1;4.99;turi
+Karo;Kaunas;Istorija;1;1;1;1;1;1;1;1.99;turi
+Gamtos;Kaunas;Gamta;0;0;1;0;0;0;0;1.99;neturi
+Kernavės;Vilnius;Istorija;0;1;0;1;1;1;1;4.99;turi
