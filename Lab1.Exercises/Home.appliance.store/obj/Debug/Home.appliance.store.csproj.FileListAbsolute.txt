@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Home.appliance.store\bin\Debug\Home.appliance.store.exe.config
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Home.appliance.store\bin\Debug\Home.appliance.store.exe
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Home.appliance.store\bin\Debug\Home.appliance.store.pdb
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Home.appliance.store\obj\Debug\Home.appliance.store.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Home.appliance.store\obj\Debug\Home.appliance.store.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Home.appliance.store\obj\Debug\Home.appliance.store.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Home.appliance.store\obj\Debug\Home.appliance.store.exe
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Home.appliance.store\obj\Debug\Home.appliance.store.pdb

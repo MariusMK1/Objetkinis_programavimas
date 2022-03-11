@@ -35,7 +35,12 @@
       "ProjectGuid": "39201f87-8d1b-4c1b-b6b3-1d59d29b4312",
       "DisplayName": "IMDB",
       "ColorIndex": 5
+    },
+    "0edf8b38-c464-4e38-8c12-61c21df2c1f5": {
+      "ProjectGuid": "0edf8b38-c464-4e38-8c12-61c21df2c1f5",
+      "DisplayName": "Basketball.Team",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

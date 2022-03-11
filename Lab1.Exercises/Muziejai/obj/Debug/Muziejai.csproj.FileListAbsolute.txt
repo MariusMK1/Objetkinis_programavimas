@@ -1,7 +1,6 @@
 D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Muziejai\bin\Debug\Muziejai.exe.config
 D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Muziejai\bin\Debug\Muziejai.exe
 D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Muziejai\bin\Debug\Muziejai.pdb
-D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Muziejai\obj\Debug\Muziejai.csproj.AssemblyReference.cache
 D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Muziejai\obj\Debug\Muziejai.csproj.SuggestedBindingRedirects.cache
 D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Muziejai\obj\Debug\Muziejai.csproj.CoreCompileInputs.cache
 D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Muziejai\obj\Debug\Muziejai.exe

@@ -5,3 +5,4 @@ D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Turistai\obj\Debug\Tou
 D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Turistai\obj\Debug\Tourists.csproj.CoreCompileInputs.cache
 D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Turistai\obj\Debug\Turistai.exe
 D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Turistai\obj\Debug\Turistai.pdb
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Turistai\obj\Debug\Tourists.csproj.AssemblyReference.cache
