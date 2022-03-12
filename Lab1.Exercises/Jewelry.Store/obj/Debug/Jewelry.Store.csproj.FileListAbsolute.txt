@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Jewelry.Store\bin\Debug\Jewelry.Store.exe.config
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Jewelry.Store\bin\Debug\Jewelry.Store.exe
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Jewelry.Store\bin\Debug\Jewelry.Store.pdb
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Jewelry.Store\obj\Debug\Jewelry.Store.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Jewelry.Store\obj\Debug\Jewelry.Store.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Jewelry.Store\obj\Debug\Jewelry.Store.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Jewelry.Store\obj\Debug\Jewelry.Store.exe
+D:\Programavimas2\Objetkinis programavimas\Lab1.Exercises\Jewelry.Store\obj\Debug\Jewelry.Store.pdb

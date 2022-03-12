@@ -40,7 +40,22 @@
       "ProjectGuid": "0edf8b38-c464-4e38-8c12-61c21df2c1f5",
       "DisplayName": "Basketball.Team",
       "ColorIndex": 6
+    },
+    "63e6ce0d-a254-486a-92e9-04eab569624f": {
+      "ProjectGuid": "63e6ce0d-a254-486a-92e9-04eab569624f",
+      "DisplayName": "Buitinės.technikos.parduotuvė",
+      "ColorIndex": 7
+    },
+    "a6f6fd59-31e6-465a-ae06-48294cdfd9f0": {
+      "ProjectGuid": "a6f6fd59-31e6-465a-ae06-48294cdfd9f0",
+      "DisplayName": "Home.appliance.store",
+      "ColorIndex": 8
+    },
+    "d72095a0-0d70-4a9e-a290-0d16095cc948": {
+      "ProjectGuid": "d72095a0-0d70-4a9e-a290-0d16095cc948",
+      "DisplayName": "Jewelry.Store",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 10
 }
