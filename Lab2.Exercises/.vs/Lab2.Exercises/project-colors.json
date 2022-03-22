@@ -25,7 +25,17 @@
       "ProjectGuid": "369fccd1-030e-48e8-928b-4947a3cd2a84",
       "DisplayName": "Basketball.Team",
       "ColorIndex": 3
+    },
+    "ddce0493-fe23-46c8-abd0-fe20d900ea8d": {
+      "ProjectGuid": "ddce0493-fe23-46c8-abd0-fe20d900ea8d",
+      "DisplayName": "Home.Appliance.store",
+      "ColorIndex": 4
+    },
+    "6897cac7-cd9e-4cdf-ae99-0f3f60507120": {
+      "ProjectGuid": "6897cac7-cd9e-4cdf-ae99-0f3f60507120",
+      "DisplayName": "Appliance.store",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

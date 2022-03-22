@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDB", "IMDB\IMDB.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basketball.Team", "Basketball.Team\Basketball.Team.csproj", "{369FCCD1-030E-48E8-928B-4947A3CD2A84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home.Appliance.store", "Home.Appliance.store\Home.Appliance.store.csproj", "{DDCE0493-FE23-46C8-ABD0-FE20D900EA8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{369FCCD1-030E-48E8-928B-4947A3CD2A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{369FCCD1-030E-48E8-928B-4947A3CD2A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{369FCCD1-030E-48E8-928B-4947A3CD2A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCE0493-FE23-46C8-ABD0-FE20D900EA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCE0493-FE23-46C8-ABD0-FE20D900EA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCE0493-FE23-46C8-ABD0-FE20D900EA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCE0493-FE23-46C8-ABD0-FE20D900EA8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
