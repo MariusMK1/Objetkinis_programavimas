@@ -35,7 +35,12 @@
       "ProjectGuid": "6897cac7-cd9e-4cdf-ae99-0f3f60507120",
       "DisplayName": "Appliance.store",
       "ColorIndex": 5
+    },
+    "b7d21afa-6c81-4b3c-9699-e0436c52906c": {
+      "ProjectGuid": "b7d21afa-6c81-4b3c-9699-e0436c52906c",
+      "DisplayName": "Jewelry.Store",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basketball.Team", "Basketba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home.Appliance.store", "Home.Appliance.store\Home.Appliance.store.csproj", "{DDCE0493-FE23-46C8-ABD0-FE20D900EA8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jewelry.Store", "Jewelry.Store\Jewelry.Store.csproj", "{B7D21AFA-6C81-4B3C-9699-E0436C52906C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DDCE0493-FE23-46C8-ABD0-FE20D900EA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDCE0493-FE23-46C8-ABD0-FE20D900EA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDCE0493-FE23-46C8-ABD0-FE20D900EA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D21AFA-6C81-4B3C-9699-E0436C52906C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D21AFA-6C81-4B3C-9699-E0436C52906C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D21AFA-6C81-4B3C-9699-E0436C52906C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D21AFA-6C81-4B3C-9699-E0436C52906C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

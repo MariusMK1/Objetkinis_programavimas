@@ -1,0 +1,8 @@
+Goldinga
+Mindaugo pr. 169
+868965222
+Juvelyrika;Ringer;Platina;8.42;16;950;2600.54;
+Hermis;Griva;Paladis;7.56;16;850;2025.15;
+Hermis;Grivana;Paladis;8.56;17;850;2225.25;
+Hermis;Grivaga;Sidabras;8.00;12;500;150.99;
+AuksSid;Miyanas;Sidabras;5.56;13;830;240;

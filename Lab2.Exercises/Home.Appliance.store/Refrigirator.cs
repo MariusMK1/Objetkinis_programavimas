@@ -35,6 +35,5 @@ namespace Home.Appliance.store
         {
             return this.Model.GetHashCode();
         }
-
     }
 }
