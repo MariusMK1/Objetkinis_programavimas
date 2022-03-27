@@ -1,0 +1,7 @@
+Tiksliųjų mokslų fakultetas
+Petraitis;Petras;AC-1;6;9 8 7 9 10 5
+Algaitis;Algis;BC-2; 6;9 8 10 5 5 5
+Jurgaitis;Jurgis;AC-1;6; 10 9 9 9 10 9
+Simonytė;Simona;BC-2;6; 9 5 7 10 10 9
+Rutytė;Rūta;AC-1;6; 10 5 8 9 9 9
+Jurgytį;Jurga;BC-2;6; 5 10 10 8 8 8

@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Faculty\bin\Debug\Faculty.exe.config
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Faculty\bin\Debug\Faculty.exe
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Faculty\bin\Debug\Faculty.pdb
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Faculty\obj\Debug\Faculty.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Faculty\obj\Debug\Faculty.exe
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Faculty\obj\Debug\Faculty.pdb
