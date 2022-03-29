@@ -5,7 +5,22 @@
       "ProjectGuid": "ac15b11f-1ba8-4769-b645-c826d71c27fd",
       "DisplayName": "Register",
       "ColorIndex": 0
+    },
+    "48eecc9c-24d4-4001-afa8-eaec264bf082": {
+      "ProjectGuid": "48eecc9c-24d4-4001-afa8-eaec264bf082",
+      "DisplayName": "Faculty",
+      "ColorIndex": 1
+    },
+    "bffa742e-6d51-4f19-bbad-3708738291c4": {
+      "ProjectGuid": "bffa742e-6d51-4f19-bbad-3708738291c4",
+      "DisplayName": "Faculty",
+      "ColorIndex": 2
+    },
+    "5128c53a-a0e1-4202-8eef-adb879cc53b8": {
+      "ProjectGuid": "5128c53a-a0e1-4202-8eef-adb879cc53b8",
+      "DisplayName": "IMDB",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
