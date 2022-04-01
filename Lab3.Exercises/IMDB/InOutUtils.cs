@@ -102,5 +102,17 @@ namespace IMDB
                 File.WriteAllLines(fileName, lines, Encoding.UTF8);
             }
         }
+        public static void PrintGenresToCSVFile(string fileName, List<string> Genres)
+        {
+            string[] lines = new string[Genres.Count() + 1];
+            lines[0] = string.Format("{0}", "Žanrai");
+            int i = 0;
+            foreach (string genre in Genres)
+            {
+                lines[i + 1] = String.Format("{0}", genre);
+                i++;
+            }
+            File.WriteAllLines(fileName, lines, Encoding.UTF8);
+        }
     }
 }

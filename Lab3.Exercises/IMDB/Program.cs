@@ -43,9 +43,15 @@ namespace IMDB
             container5.Sort();
             string fileName1 = "Rekomendacija_" + container4.Name + ".csv";
             string fileName2 = "Rekomendacija_" + container5.Name + ".csv";
-            Console.WriteLine(container4.Name);
             InOutUtils.PrintMoviesToCSVFile(fileName1, container4);
             InOutUtils.PrintMoviesToCSVFile(fileName2, container4);
+
+            //Finds All genres and prins ti csv file
+            List<string> Genres = new List<string>();
+            container1.FindGenres(Genres);
+            container2.FindGenres(Genres);
+            InOutUtils.PrintGenresToCSVFile("Žanrai.csv", Genres);
+
             Console.WriteLine();
             Console.WriteLine("Programa baigė darbą!");
         }

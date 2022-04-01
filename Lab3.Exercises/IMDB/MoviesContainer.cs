@@ -176,5 +176,17 @@ namespace IMDB
             }
             return maxGross;
         }
+        public List<string> FindGenres(List<string> Genres)
+        {
+            for (int i = 0; i < this.Count; i++)
+            {
+                string Genre = this.Get(i).Genre;
+                if (!Genres.Contains(Genre))        //uses List method Contains()
+                {
+                    Genres.Add(Genre);
+                }
+            }
+            return Genres;
+        }
     }
 }
