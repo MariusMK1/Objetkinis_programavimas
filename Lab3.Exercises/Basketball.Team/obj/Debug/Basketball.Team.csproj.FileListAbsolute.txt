@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Basketball.Team\obj\Debug\Basketball.Team.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Basketball.Team\obj\Debug\Basketball.Team.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Basketball.Team\obj\Debug\Basketball.Team.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Basketball.Team\bin\Debug\Basketball.Team.exe.config
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Basketball.Team\bin\Debug\Basketball.Team.exe
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Basketball.Team\bin\Debug\Basketball.Team.pdb
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Basketball.Team\obj\Debug\Basketball.Team.exe
+D:\Programavimas2\Objetkinis programavimas\Lab3.Exercises\Basketball.Team\obj\Debug\Basketball.Team.pdb
