@@ -25,7 +25,17 @@
       "ProjectGuid": "54d0d1a5-edf6-4d51-b61f-b9a2709b40d7",
       "DisplayName": "Basketball.Team",
       "ColorIndex": 4
+    },
+    "299fd2e4-f05d-438a-b4fb-004b4cf63308": {
+      "ProjectGuid": "299fd2e4-f05d-438a-b4fb-004b4cf63308",
+      "DisplayName": "Home.Appliance.store",
+      "ColorIndex": 5
+    },
+    "5a9b1eb5-0bd9-49a2-aa84-e12992a88a49": {
+      "ProjectGuid": "5a9b1eb5-0bd9-49a2-aa84-e12992a88a49",
+      "DisplayName": "Jewelry.Store",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }

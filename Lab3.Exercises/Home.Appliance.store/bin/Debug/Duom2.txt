@@ -1,0 +1,10 @@
+Avitela
+Mindaugo pr. 19
+864584891
+Bosh;RB33J1548SA/EF;415;A++;Pastatomas;Sidabrinė;True;1300;
+Schlosser;BEG40DT;400;A+;Įmontuojamas;Balta;False;856.99;
+Samsung;RBS450WP;386;A;Pastaotmas;Balta;False;850.89;
+Beko;BU2867HCN;354;B++;Įmontuojamas;Sidabrinė;True;1100.75;
+Snaigė;RF56NG-P5CBNF;400;A+;Pastatomas;Balta;True;900.25;
+Samsung;RCS680WP;400;A++;Įmontuojamas;Balta;FTrue;1200.99;
+Samsung;RCS790WP;450;A++;Įmontuojamas;Balta;FTrue;1300.99;
