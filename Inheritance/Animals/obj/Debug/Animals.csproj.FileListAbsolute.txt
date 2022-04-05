@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Animals\bin\Debug\Animals.exe.config
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Animals\bin\Debug\Animals.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Animals\bin\Debug\Animals.pdb
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Animals\obj\Debug\Animals.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Animals\obj\Debug\Animals.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Animals\obj\Debug\Animals.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Animals\obj\Debug\Animals.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bff7df45-7a92-4aa4-a3ef-6a5b58ea282b": {
+      "ProjectGuid": "bff7df45-7a92-4aa4-a3ef-6a5b58ea282b",
+      "DisplayName": "Register",
+      "ColorIndex": 0
+    },
+    "efb2f8d0-987b-410d-8226-28d169127ae2": {
+      "ProjectGuid": "efb2f8d0-987b-410d-8226-28d169127ae2",
+      "DisplayName": "Animals",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
