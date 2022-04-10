@@ -1,0 +1,8 @@
+Basketball;Žalgiris;Jonaitis;Jonas;1968-05-15;6;50;23;15
+Football;Banga;Petraitis;Petras;1988-04-25;6;4;1
+Basketball;Rytas;Adomaitis;Adomas;1996-08-01;4;44;15;20
+Football;Sūduva;Giedraitis;Giedrius;1980-02-28;6;6;0
+Basketball;Žalgiris;Lukaitis;Lukas;1986-01-03;6;85;30;2
+Football;Banga;Andraitis;Andrius;1975-04-08;6;10;2
+Basketball;Žalgiris;Algaitis;Algis;1996-05-18;5;70;10;16
+Football;Banga;Girdvydaitis;Girvis;1990-07-12;5;2;1

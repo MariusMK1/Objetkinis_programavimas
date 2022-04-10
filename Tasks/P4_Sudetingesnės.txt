@@ -1,0 +1,45 @@
+1. 
+Krepšinio rinktinė. Turite trijų pastarųjų metų į stovyklas pakviestų krepšininkų sąrašus. Pirmoje eilutėje –
+metai, antroje – stovyklos pradžios data, trečioje – stovyklos pabaigos data. Toliau informacija apie rinktinės narius.
+Krepšinio rinktinę sudaro ne tik krepšininkai, bet ir pagalbinis personalas – treneriai, gydytojai, masažuotojai ir kt.
+Sukurkite klasę „Member“ (savybės – vardas, pavardė, gimimo data), kurią paveldės klasės „Player“ (savybės – ūgis,
+pozicija, klubas, požymis „pakviestas“, požymis „kapitonas“) ir „Staff“ (savybė – pareigos).
+• Sudarykite rinktinės narių (tiek krepšininkų, tiek personalo), dalyvavusių visose trijose stovyklose, sąrašą ir
+atspausdinkite jį ekrane.
+• Sudarykite visų puolėjų, dalyvavusių rinktinės stovyklose, sąrašą ir ekrane atspausdinkite jų vardus, pavardes
+bei ūgį. Sudarykite vyr. trenerių sąrašą ir atspausdinkite ekrane visų jų vardus ir pavardes.
+• Atspausdinkite kiekvienos stovyklos dalyvių sąrašą, išrikiuojant juos pagal amžių nuo vyriausio iki jauniausio.
+• Sudarykite visų į rinktinę pakviestų krepšininkų sąrašą. Jų duomenis įrašykite į failą „Rinktinė.csv“. Sudarykite
+viso į rinktinę pakviesto personalo sąrašą. Jų duomenis įrašykite į failą „Personalas.csv“.
+
+2.
+Buitinės technikos parduotuvė. Turite informaciją apie trijose buitinės technikos
+parduotuvėse esančius šaldytuvus. Pirmoje eilutėje – pavadinimas, antroje – adresas, trečioje –
+telefonas. Parduotuvėje be šaldytuvų galima įsigyti mikrobangų krosnelių ir elektrinis virdulys.
+Sukurkite klasę „Device“ (savybės - gamintojas, modelis, energijos klasė, spalva, kaina), kurią
+paveldės “Fridge” (savybės – talpa, montavimo tipas, požymis „turi šaldiklį“, aukštis, plotis, gylis),
+“Oven” (savybės – galingumas, programų skaičius) ir “Kettle” (savybės – galia, tūris).
+• Raskite, kokių skirtingų spalvų šaldytuvus galima įsigyti, spalvų sąrašą atspausdinkite ekrane.
+Raskite, kokių skirtingų spalvų elektrinius virdulius galima įsigyti, spalvų sąrašą atspausdinkite
+ekrane. • Raskite pigiausią A+ klasės šaldytuvą, mikrobangų krosnelę ir virdulį, kiekvieno jų
+visą informaciją atspausdinkite ekrane.
+• Sudarykite šaldytuvų, kurių plotis nuo 52 iki 56 cm, sąrašą, išrikiuokite pagal kainą didėjimo
+kryptimi, jei kaina sutampa, rikiuokite pagal gamintoją, ir įrašykite visus duomenis apie šiuos
+šaldytuvus į failą „Tilps.csv“.
+• Ar yra tokių buitinių prietaisų, kuriuos galima įsigyti visose parduotuvėje? Atspausdinkite jų
+sąrašą faile „Visur.csv“.
+
+3.
+IMBD. Turite trijų kino mėgėjų peržiūrėtus filmų ir serialų sąrašus. Pirmoje eilutėje – kino
+mėgėjo vardas pavardė, antroje - gimimo metai, trečioje – miestas. Sudarykite klasę „Record“ (savybės
+– pavadinimas, žanras, kino studija, du pagrindiniai aktoriai), kurią paveldės klasės „Film“ (savybės –
+leidimo metai, režisierius, pajamos) ir „Serial“ (savybės – pradžios metai, serijų kiekis, pabaigos metai
+(jei yra), požymis „ar tęsiasi“).
+• Raskite ir atspausdinkite ekrane kiekvieno kino mėgėjo mėgstamiausią aktorių (tai aktorius,
+kuris atliko daugiausiai vaidmenų peržiūrėtuose filmuose ir serialuose).
+• Sudarykite filmų ir serialų, kuriuos peržiūrėjo visi kino mėgėjai, sąrašą. Visus duomenis apie
+juos įrašykite į failą „MatėVisi.csv“.
+• Kiekvienam kino mėgėjui sudarykite rekomenduojamų peržiūrėti filmų ir serialų sąrašą, į kurį
+įtraukite filmus ir serialus, kurių jis nematė, tačiau matė kiti kino mėgėjai. Rekomendacijų sąrašus
+išrikiuokite pagal žanrą ir pavadinimą, įrašykite į failus „Rekomendacija_vardas_pavardė.csv“.
+• Sudarykite filmų žanrų sąrašą, įrašykite juos į failą „Žanrai.csv“.

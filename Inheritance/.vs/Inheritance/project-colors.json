@@ -10,7 +10,22 @@
       "ProjectGuid": "efb2f8d0-987b-410d-8226-28d169127ae2",
       "DisplayName": "Animals",
       "ColorIndex": 1
+    },
+    "f5c6e683-19e7-460c-a43b-731da3f40d62": {
+      "ProjectGuid": "f5c6e683-19e7-460c-a43b-731da3f40d62",
+      "DisplayName": "Players",
+      "ColorIndex": 2
+    },
+    "e094eb2d-8429-4972-a85e-00bc5e8a617c": {
+      "ProjectGuid": "e094eb2d-8429-4972-a85e-00bc5e8a617c",
+      "DisplayName": "Basketball.Team",
+      "ColorIndex": 3
+    },
+    "66600231-6547-4492-abf8-a34ba467947a": {
+      "ProjectGuid": "66600231-6547-4492-abf8-a34ba467947a",
+      "DisplayName": "Home.Appliance.store",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }

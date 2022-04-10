@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Players\bin\Debug\Players.exe.config
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Players\bin\Debug\Players.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Players\bin\Debug\Players.pdb
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Players\obj\Debug\Players.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Players\obj\Debug\Players.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Players\obj\Debug\Players.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Players\obj\Debug\Players.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance\Players\obj\Debug\Players.pdb

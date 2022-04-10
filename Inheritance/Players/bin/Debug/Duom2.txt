@@ -1,0 +1,4 @@
+Žalgiris;Kaunas;Antanas;Robaitis;6
+Banga;Gargždai;Jonas;Rijonas;6
+Sūduva;Marijampolė;Zigis;Rigis;8
+Rytas;Vilnius;Giedrius;Antliejus;9
