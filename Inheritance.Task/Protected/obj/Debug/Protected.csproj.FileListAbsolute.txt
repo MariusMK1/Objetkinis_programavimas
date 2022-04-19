@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Protected\bin\Debug\Protected.exe.config
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Protected\bin\Debug\Protected.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Protected\bin\Debug\Protected.pdb
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Protected\obj\Debug\Protected.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Protected\obj\Debug\Protected.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Protected\obj\Debug\Protected.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Protected\obj\Debug\Protected.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Protected\obj\Debug\Protected.pdb

@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Family\bin\Debug\Family.exe.config
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Family\bin\Debug\Family.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Family\bin\Debug\Family.pdb
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Family\obj\Debug\Family.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Family\obj\Debug\Family.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Family\obj\Debug\Family.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Family\obj\Debug\Family.pdb

@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\BazinėKlasė2\bin\Debug\BazinėKlasė2.exe.config
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\BazinėKlasė2\bin\Debug\BazinėKlasė2.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\BazinėKlasė2\bin\Debug\BazinėKlasė2.pdb
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\BazinėKlasė2\obj\Debug\BazinėKlasė2.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\BazinėKlasė2\obj\Debug\BazinėKlasė2.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\BazinėKlasė2\obj\Debug\BazinėKlasė2.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\BazinėKlasė2\obj\Debug\BazinėKlasė2.pdb

@@ -10,7 +10,7 @@ namespace Home.Appliance.store
 {
     internal class InOutUtils
     {
-        public static DeviceContainer ReadRefrigirators(string fileName)
+        public static DeviceContainer ReadRefrigirators(string fileName, FridgeContainer AllFridges, OvenContainer AllOvens, KettleContainer AllKettles)
         {
             DeviceContainer device = new DeviceContainer();
             StreamReader read = new StreamReader(fileName, Encoding.UTF8);
@@ -46,6 +46,10 @@ namespace Home.Appliance.store
                         {
                             device.Add(fridge);
                         }
+                        if (!AllFridges.Contains(fridge))
+                        {
+                            AllFridges.Add(fridge);
+                        }
                         break;
                     case "Oven":
                         int power = int.Parse(Values[6]);
@@ -54,6 +58,10 @@ namespace Home.Appliance.store
                         if (!device.Contains(oven))
                         {
                             device.Add(oven);
+                        }
+                        if (!AllOvens.Contains(oven))
+                        {
+                            AllOvens.Add(oven);
                         }
                         break;
                     case "Kettle":
@@ -64,6 +72,10 @@ namespace Home.Appliance.store
                         {
                             device.Add(kettle);
                         }
+                        if (!AllKettles.Contains(kettle))
+                        {
+                            AllKettles.Add(kettle);
+                        }
                         break;
                     default:
                         break; //unknown type
@@ -71,7 +83,7 @@ namespace Home.Appliance.store
             }
             return device;
         }
-        public static void PrintRefrigirators(DeviceContainer container)
+        public static void PrintDevices(DeviceContainer container)
         {
             Console.WriteLine("{0}", container.ShopName);
             Console.WriteLine(new string('-', Device.PrintFormat().Length));
@@ -83,6 +95,95 @@ namespace Home.Appliance.store
                 Console.WriteLine(container.Get(i).ToString());
             }
             Console.WriteLine(new string('-', Device.PrintFormat().Length));
+            Console.WriteLine();
+        }
+        public static void PrintDevicesToCSVFile(string fileName, DeviceContainer Filtered)
+        {
+            if (Filtered.Count != 0)
+            {
+                string[] lines = new string[Filtered.Count + 1];
+                lines[0] = Device.PrintFormat();
+                for (int i = 0; i < Filtered.Count; i++)
+                {
+                    lines[i + 1] = String.Format(Filtered.Get(i).ToString());
+                }
+                File.WriteAllLines(fileName, lines, Encoding.UTF8);
+            }
+            else
+            {
+                string[] lines = new string[Filtered.Count + 1];
+                lines[0] = string.Format("{0}", "Tokių prekių nėra nėra");
+                File.WriteAllLines(fileName, lines, Encoding.UTF8);
+            }
+        }
+        public static void PrintRefrigirators(FridgeContainer container)
+        {
+            Console.WriteLine("{0}", container.ShopName);
+            Console.WriteLine(new string('-', Device.PrintFormat().Length));
+            Console.WriteLine(Device.PrintFormat());
+            Console.WriteLine(new string('-', Device.PrintFormat().Length));
+
+            for (int i = 0; i < container.Count; i++)
+            {
+                Console.WriteLine(container.Get(i).ToString());
+            }
+            Console.WriteLine(new string('-', Device.PrintFormat().Length));
+            Console.WriteLine();
+        }
+        public static void PrintRefrigiraitorsToCSVFile(string fileName, FridgeContainer Filtered)
+        {
+            if (Filtered.Count != 0)
+            {
+                string[] lines = new string[Filtered.Count + 1];
+                lines[0] = Device.PrintFormat();
+                for (int i = 0; i < Filtered.Count; i++)
+                {
+                    lines[i + 1] = String.Format(Filtered.Get(i).ToString());
+                }
+                File.WriteAllLines(fileName, lines, Encoding.UTF8);
+            }
+            else
+            {
+                string[] lines = new string[Filtered.Count + 1];
+                lines[0] = string.Format("{0}", "Tokių šaldytuvų nėra");
+                File.WriteAllLines(fileName, lines, Encoding.UTF8);
+            }
+        }
+        public static void PrintOvens(OvenContainer container)
+        {
+            Console.WriteLine("{0}", container.ShopName);
+            Console.WriteLine(new string('-', Device.PrintFormat().Length));
+            Console.WriteLine(Device.PrintFormat());
+            Console.WriteLine(new string('-', Device.PrintFormat().Length));
+
+            for (int i = 0; i < container.Count; i++)
+            {
+                Console.WriteLine(container.Get(i).ToString());
+            }
+            Console.WriteLine(new string('-', Device.PrintFormat().Length));
+            Console.WriteLine();
+        }
+        public static void PrintKettles(KettleContainer container)
+        {
+            Console.WriteLine("{0}", container.ShopName);
+            Console.WriteLine(new string('-', Device.PrintFormat().Length));
+            Console.WriteLine(Device.PrintFormat());
+            Console.WriteLine(new string('-', Device.PrintFormat().Length));
+
+            for (int i = 0; i < container.Count; i++)
+            {
+                Console.WriteLine(container.Get(i).ToString());
+            }
+            Console.WriteLine(new string('-', Device.PrintFormat().Length));
+            Console.WriteLine();
+        }
+        public static void PrintListStringColours (string title, List<string> colours)
+        {
+            Console.WriteLine(title);
+            for(int i = 0;i < colours.Count; i++)
+            {
+                Console.WriteLine(colours[i]);
+            }
             Console.WriteLine();
         }
         //public static void PrintCapacities(List<int> capacities)
@@ -125,25 +226,5 @@ namespace Home.Appliance.store
         //        Console.WriteLine("Informaacijos apie pigiausią pastatomą šaldytuvą su šaldikliu nėra");
         //    Console.WriteLine();
         //}
-        //public static void PrintRefrigiraitorsToCSVFile(string fileName, DeviceContainer Filtered)
-        //{
-        //    if (Filtered.Count != 0)
-        //    {
-        //        string[] lines = new string[Filtered.Count + 1];
-        //        lines[0] = string.Format("{0,-10};{1,-15};{2,5};{3,15};{4,-15};{5,-10};{6,-13};{7,-7}", "Gamintojas", "Modelis", "Talpa", "Energijos klasė", "Montavimo tipas", "Spalva", "Turi šaldiklį", "Kaina");
-        //        for (int i = 0; i < Filtered.Count; i++)
-        //        {
-        //            lines[i + 1] = String.Format("{0,-10};{1,-15};{2,5};{3,15};{4,-15};{5,-10};{6,-13};{7,7:f2}", Filtered.Get(i).Manufacturer, Filtered.Get(i).Model, Filtered.Get(i).Capacity, Filtered.Get(i).EnergyClass, Filtered.Get(i).MountingType, Filtered.Get(i).Colour, Filtered.Get(i).HasFreezer, Filtered.Get(i).Price);
-        //        }
-        //        File.WriteAllLines(fileName, lines, Encoding.UTF8);
-        //    }
-        //    else
-        //    {
-        //        string[] lines = new string[Filtered.Count + 1];
-        //        lines[0] = string.Format("{0}", "Tokių šaldytuvų nėra");
-        //        File.WriteAllLines(fileName, lines, Encoding.UTF8);
-        //    }
-        //}
-
     }
 }

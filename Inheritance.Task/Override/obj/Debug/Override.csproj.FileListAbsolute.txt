@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Override\bin\Debug\Override.exe.config
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Override\bin\Debug\Override.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Override\bin\Debug\Override.pdb
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Override\obj\Debug\Override.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Override\obj\Debug\Override.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Override\obj\Debug\Override.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Override\obj\Debug\Override.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Override\obj\Debug\Override.pdb

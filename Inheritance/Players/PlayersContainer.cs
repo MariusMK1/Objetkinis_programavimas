@@ -98,7 +98,7 @@ namespace Players
         public PlayersContainer FilterPlayersByTeam(TeamsRegister team)
         {
             PlayersContainer players = new PlayersContainer();
-            for (int i = 0; i <= this.Count; i++)
+            for (int i = 0; i < this.Count; i++)
             {
                 for (int j = 0; j < team.TeamCount(); j++)
                 {
@@ -113,7 +113,7 @@ namespace Players
         public double FindsAveragePoints()
         {
             int sum = 0;
-            for (int i = 0; i <= this.Count; i++)
+            for (int i = 0; i < this.Count; i++)
             {
                 sum += this.Get(i).Points;
             }
@@ -122,7 +122,7 @@ namespace Players
         public PlayersContainer FilterByAverageAndPlayedGames(TeamsRegister team)
         {
             PlayersContainer players = new PlayersContainer();
-            for (int i = 0; i <= this.Count; i++)
+            for (int i = 0; i < this.Count; i++)
             {
                 for (int j = 0; j < team.TeamCount(); j++)
                 {
@@ -136,7 +136,7 @@ namespace Players
         }
         public PlayersContainer FilterPlayersByTeam(PlayersContainer players)
         {
-            for (int i = 0; i <= this.Count; i++)
+            for (int i = 0; i < this.Count; i++)
             {
                 if (this.Get(i).Team == "Žalgiris")
                 {

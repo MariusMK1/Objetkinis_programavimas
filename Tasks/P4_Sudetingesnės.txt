@@ -21,7 +21,8 @@ paveldės “Fridge” (savybės – talpa, montavimo tipas, požymis „turi š
 “Oven” (savybės – galingumas, programų skaičius) ir “Kettle” (savybės – galia, tūris).
 • Raskite, kokių skirtingų spalvų šaldytuvus galima įsigyti, spalvų sąrašą atspausdinkite ekrane.
 Raskite, kokių skirtingų spalvų elektrinius virdulius galima įsigyti, spalvų sąrašą atspausdinkite
-ekrane. • Raskite pigiausią A+ klasės šaldytuvą, mikrobangų krosnelę ir virdulį, kiekvieno jų
+ekrane.
+ • Raskite pigiausią A+ klasės šaldytuvą, mikrobangų krosnelę ir virdulį, kiekvieno jų
 visą informaciją atspausdinkite ekrane.
 • Sudarykite šaldytuvų, kurių plotis nuo 52 iki 56 cm, sąrašą, išrikiuokite pagal kainą didėjimo
 kryptimi, jei kaina sutampa, rikiuokite pagal gamintoją, ir įrašykite visus duomenis apie šiuos

@@ -43,16 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DeviceComparator.cs" />
+    <Compile Include="DeviceComparatorByPrice.cs" />
+    <Compile Include="FridgeContainer.cs" />
     <Compile Include="Fridge.cs" />
     <Compile Include="HasFreezer.cs" />
     <Compile Include="InOutUtils.cs" />
     <Compile Include="Kettle.cs" />
+    <Compile Include="KettleContainer.cs" />
     <Compile Include="Oven.cs" />
+    <Compile Include="OvenContainer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Device.cs" />
     <Compile Include="DeviceContainer.cs" />
-    <Compile Include="TaskUtils.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

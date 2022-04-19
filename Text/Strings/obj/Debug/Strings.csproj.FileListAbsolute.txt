@@ -1,0 +1,7 @@
+D:\Programavimas2\Objetkinis programavimas\Text\Strings\bin\Debug\Strings.exe.config
+D:\Programavimas2\Objetkinis programavimas\Text\Strings\bin\Debug\Strings.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Strings\bin\Debug\Strings.pdb
+D:\Programavimas2\Objetkinis programavimas\Text\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Strings\obj\Debug\Strings.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Strings\obj\Debug\Strings.pdb

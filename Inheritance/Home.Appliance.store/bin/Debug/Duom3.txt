@@ -1,7 +1,7 @@
 Senukai
 Pramonės pr. 19
 864545891
-Fridge;Bosh;RB33J1548SA/EF;A++;Sidabrinė;1300;415;Pastatomas;True;2.11;0.56;0.56;
+Fridge;Bosch;RB33J1548SA/EF;A++;Sidabrinė;1300;415;Pastatomas;True;2.11;0.56;0.56;
 Oven;Bosch;RJKSOLE1255;A++;Juoda;1100;800;5;
 Fridge;Samsung;RBS450WP;A;Balta;850.89;386;Pastaotmas;False;1.8;0.55;0.55;
 Kettle;Bosch;VG3055T;A++;Juoda;150.99;200;2;
@@ -9,3 +9,4 @@ Fridge;Beko;BU2867HCN;B++;Sidabrinė;1100.75;354;Įmontuojamas;True;1.85;0.6;0.6
 Fridge;Snaigė;RF56NG-P5CBNF;A+;Balta;900.25;400;Pastatomas;True;2;0.54;0.54;
 Oven;Samsung;SRWQOLE1255;A++;Juoda;1500;1000;7;
 Kettle;Samsung;VGTWRGT;A+;Balta;100.00;200;3;
+Fridge;Bosch;RB33J3205SA/EF;A+;Sidabrinė;1000.99;339;Pastatomas;True;2.11;0.56;0.56;

@@ -13,37 +13,37 @@ namespace Home.Appliance.store
             Console.OutputEncoding = Encoding.UTF8;
             Console.InputEncoding = Encoding.UTF8;
             //Reading and printing initial data
-            DeviceContainer container1 = InOutUtils.ReadRefrigirators(@"Duom.txt");
-            InOutUtils.PrintRefrigirators(container1);
-            DeviceContainer container2 = InOutUtils.ReadRefrigirators(@"Duom2.txt");
-            InOutUtils.PrintRefrigirators(container2);
-            DeviceContainer container3 = InOutUtils.ReadRefrigirators(@"Duom3.txt");
-            InOutUtils.PrintRefrigirators(container3);
-
-            //// Findig all the capacities
-            //List<int> capacities = new List<int>();
-            //container1.FindCapacities(capacities);
-            //container2.FindCapacities(capacities);
-            //InOutUtils.PrintCapacities(capacities);
-
-            ////Finding smalest price standing with a freezer refrigirator
-            //DeviceContainer Filtered = new DeviceContainer();
-            //double minPrice = TaskUtils.FindsSmallestPriceOFStandingNoFreezerInTwoRegisters(container1, container2);
-            //Console.WriteLine(minPrice);
-            //TaskUtils.FindsBySmalestPriceOfStandigNoFreezer(Filtered, container1, minPrice);
-            //TaskUtils.FindsBySmalestPriceOfStandigNoFreezer(Filtered, container2, minPrice);
-            //InOutUtils.PrintRefrigiratorsSmalestPrice(Filtered, container1, container2);
-
-            ////Finding all white A++ refrigirators and sorting them
-            //DeviceContainer Filtered2 = new DeviceContainer();
-            //container1.FilterWhiteA(Filtered2);
-            //container2.FilterWhiteA(Filtered2);
-            //Filtered2.Sort();
-            //InOutUtils.PrintRefrigiraitorsToCSVFile("Balti.csv", Filtered2);
-
-            //////Finding fridges that are being sold in both stores
-            //InOutUtils.PrintRefrigiraitorsToCSVFile("Abi.csv", TaskUtils.BothShopsSells(container1, container2));
-            //Console.WriteLine("Programa baigė darbą!");
+            FridgeContainer allFridges = new FridgeContainer();
+            OvenContainer allOvens = new OvenContainer();
+            KettleContainer allKettles = new KettleContainer();
+            DeviceContainer container1 = InOutUtils.ReadRefrigirators(@"Duom.txt", allFridges, allOvens, allKettles);
+            InOutUtils.PrintDevices(container1);
+            DeviceContainer container2 = InOutUtils.ReadRefrigirators(@"Duom2.txt", allFridges, allOvens, allKettles);
+            InOutUtils.PrintDevices(container2);
+            DeviceContainer container3 = InOutUtils.ReadRefrigirators(@"Duom3.txt", allFridges, allOvens, allKettles);
+            InOutUtils.PrintDevices(container3);
+            //Finds what colour fridges you can buy
+            List<string> allFridgeColours = allFridges.AllFridgeColours();
+            InOutUtils.PrintListStringColours("Visos šaldytuvų spalvos:", allFridgeColours);
+            List<string> allKettleColours = allKettles.AllKettleColours();
+            InOutUtils.PrintListStringColours("Visos virdulių spalvos:", allKettleColours);
+            FridgeContainer minPriceFridge = allFridges.FridgeWithMinPriceOFA();
+            //Finds min prices of all devicess with A+ energy class
+            Console.WriteLine("Pigiausi A+ klasės šaldytuvai: ");
+            InOutUtils.PrintRefrigirators(minPriceFridge);
+            OvenContainer minPriceOvens = allOvens.OvenWithMinPriceOFA();
+            Console.WriteLine("Pigiausios A+ klasės krosnelės: ");
+            InOutUtils.PrintOvens(minPriceOvens);
+            KettleContainer minPriceKettles = allKettles.KettleWithMinPriceOFA();
+            Console.WriteLine("Pigiausi A+ klasės virduliai: ");
+            InOutUtils.PrintKettles(minPriceKettles);
+            //Finds fridges width between 52 and 56 and sorts them
+            FridgeContainer fridgeBySize = allFridges.FilterBySize();
+            fridgeBySize.Sort(new DeviceComparatorByPrice());
+            InOutUtils.PrintRefrigiraitorsToCSVFile("Tilps.csv" ,fridgeBySize);
+            //Finds devices that are in all stores
+            DeviceContainer inAllStores = container1.InEvryStore(container2, container3);
+            InOutUtils.PrintDevicesToCSVFile("Visur.csv", inAllStores);
         }
     }
 }

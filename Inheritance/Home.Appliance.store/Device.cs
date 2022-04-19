@@ -31,21 +31,11 @@ namespace Home.Appliance.store
         {
             return this.Model.GetHashCode();
         }
-        public double CompareTo(Device other)
+        public int CompareTo(Device other)
         {
-            double studentcomp = this.Manufacturer.CompareTo(other.Manufacturer);
+            int studentcomp = this.Type.CompareTo(other.Type);
             if (studentcomp == 0)
             {
-                double result = this.Model.CompareTo(other.Model);
-                if (result == 0)
-                {
-                    double result2 = this.Price.CompareTo(other.Price);
-                    if (result2 == 0)
-                    {
-                    }
-                    return result2;
-                }
-                return result;
             }
             return studentcomp;
         }

@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Apskritimas2\bin\Debug\Apskritimas2.exe.config
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Apskritimas2\bin\Debug\Apskritimas2.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Apskritimas2\bin\Debug\Apskritimas2.pdb
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Apskritimas2\obj\Debug\Apskritimas2.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Apskritimas2\obj\Debug\Apskritimas2.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Apskritimas2\obj\Debug\Apskritimas2.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Apskritimas2\obj\Debug\Apskritimas2.exe
+D:\Programavimas2\Objetkinis programavimas\Inheritance.Task\Apskritimas2\obj\Debug\Apskritimas2.pdb

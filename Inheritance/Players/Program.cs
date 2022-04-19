@@ -19,11 +19,6 @@ namespace Players
             Console.Write("Įveskite miestą kurio komandos žaidėjus norite atrinkti: ");
             string City = Console.ReadLine();
             TeamsRegister FilterdTeam = Teams.FilterTeam(City);
-            Console.WriteLine(FilterdTeam.GetTeam(0).City);
-            Console.WriteLine(FilterdTeam.GetTeam(0).TeamName);
-            Console.WriteLine(container.Get(0).Team);
-            Console.WriteLine(FilterdTeam.TeamCount());
-            Console.WriteLine(container.Count);
             PlayersContainer FilteredPlayersByTeam = container.FilterPlayersByTeam(FilterdTeam);
             PlayersContainer FilteredPlayersByAvgAndPlayedGames = FilteredPlayersByTeam.FilterByAverageAndPlayedGames(Teams);
             InOutUtils.PrintFilteredPlayers("Atrinkti žaidėjai:", FilteredPlayersByAvgAndPlayedGames);

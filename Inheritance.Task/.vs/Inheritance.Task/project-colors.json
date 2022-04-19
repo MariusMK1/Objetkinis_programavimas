@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aaf96e3b-454f-494e-8da3-fc0a54fb0fbd": {
+      "ProjectGuid": "aaf96e3b-454f-494e-8da3-fc0a54fb0fbd",
+      "DisplayName": "BazinėKlasė",
+      "ColorIndex": 0
+    },
+    "19f6f13b-db25-4812-9172-1f4ba8bd912f": {
+      "ProjectGuid": "19f6f13b-db25-4812-9172-1f4ba8bd912f",
+      "DisplayName": "Apskritimas",
+      "ColorIndex": 1
+    },
+    "6214c9e4-52b5-471c-b5fb-f52c2611e360": {
+      "ProjectGuid": "6214c9e4-52b5-471c-b5fb-f52c2611e360",
+      "DisplayName": "BazinėKlasė2",
+      "ColorIndex": 2
+    },
+    "1bd63bac-3c92-471b-b3c7-06fe98d6a2f0": {
+      "ProjectGuid": "1bd63bac-3c92-471b-b3c7-06fe98d6a2f0",
+      "DisplayName": "Apskritimas2",
+      "ColorIndex": 3
+    },
+    "555e581a-80ed-4a73-9d52-dbf8c4e947d3": {
+      "ProjectGuid": "555e581a-80ed-4a73-9d52-dbf8c4e947d3",
+      "DisplayName": "Override",
+      "ColorIndex": 4
+    },
+    "b647a774-273d-4d1d-b3d4-9865d7840e59": {
+      "ProjectGuid": "b647a774-273d-4d1d-b3d4-9865d7840e59",
+      "DisplayName": "Protected",
+      "ColorIndex": 5
+    },
+    "95788e60-f5a3-45ac-9101-783fe3d33809": {
+      "ProjectGuid": "95788e60-f5a3-45ac-9101-783fe3d33809",
+      "DisplayName": "Family",
+      "ColorIndex": 6
+    },
+    "ca12e364-2149-45c6-8163-3759619089a7": {
+      "ProjectGuid": "ca12e364-2149-45c6-8163-3759619089a7",
+      "DisplayName": "Family2",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

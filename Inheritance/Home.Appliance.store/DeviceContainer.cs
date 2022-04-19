@@ -68,7 +68,7 @@ namespace Home.Appliance.store
         {
             return this.devices[index];
         }
-        public void Sort()
+        public void Sort(DeviceComparator comparator)
         {
             bool flag = true;
             while (flag)
@@ -78,7 +78,7 @@ namespace Home.Appliance.store
                 {
                     Device a = this.devices[i];
                     Device b = this.devices[i + 1];
-                    if (a.CompareTo(b) > 0)
+                    if (comparator.Compare(a, b) > 0)
                     {
                         this.devices[i] = b;
                         this.devices[i + 1] = a;
@@ -137,40 +137,17 @@ namespace Home.Appliance.store
             }
             return result;
         }
-        //public List<int> FindCapacities(List<int> Capacities)
-        //{
-        //    for (int i = 0; i < this.Count; i++)
-        //    {
-        //        int capacity = this.Get(i).Capacity;
-        //        if (!Capacities.Contains(capacity))        //uses List method Contains()
-        //        {
-        //            Capacities.Add(capacity);
-        //        }
-        //    }
-        //    return Capacities;
-        //}
-        //public double FindsSmallestPriceOFStandingNoFreezer()
-        //{
-        //    double minPrice = double.MaxValue;
-        //    for (int i = 0; i < this.Count; i++)
-        //    {
-        //        if (this.Get(i).MountingType.Contains("Pastatomas") && this.Get(i).HasFreezer == HasFreezer.True && minPrice > this.Get(i).Price)
-        //        {
-        //            minPrice = this.Get(i).Price;
-        //        }
-        //    }
-        //    return minPrice;
-        //}
-        //public DeviceContainer FilterWhiteA(DeviceContainer Filtered)
-        //{
-        //    for (int i = 0; i < this.Count; i++)
-        //    {
-        //        if (this.Get(i).Colour.Contains("Balta") && this.Get(i).EnergyClass.Contains("A++") && !(Filtered.Contains(this.Get(i))))
-        //        {
-        //            Filtered.Add(this.Get(i));
-        //        }
-        //    }
-        //    return Filtered;
-        //}
+        public DeviceContainer InEvryStore(DeviceContainer container2, DeviceContainer container3)
+        {
+            DeviceContainer inAllStores = new DeviceContainer();
+            for (int i = 0;i < this.Count; i++)
+            {
+                if (container2.Contains(this.Get(i)) && container3.Contains(this.Get(i)))
+                {
+                    inAllStores.Add(this.Get(i));
+                }
+            }
+            return inAllStores;
+        }
     }
 }
