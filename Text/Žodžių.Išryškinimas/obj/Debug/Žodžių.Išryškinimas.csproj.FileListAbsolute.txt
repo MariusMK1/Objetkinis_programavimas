@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Text\Žodžių.Išryškinimas\bin\Debug\Žodžių.Išryškinimas.exe.config
+D:\Programavimas2\Objetkinis programavimas\Text\Žodžių.Išryškinimas\bin\Debug\Žodžių.Išryškinimas.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Žodžių.Išryškinimas\bin\Debug\Žodžių.Išryškinimas.pdb
+D:\Programavimas2\Objetkinis programavimas\Text\Žodžių.Išryškinimas\obj\Debug\Žodžių.Išryškinimas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Žodžių.Išryškinimas\obj\Debug\Žodžių.Išryškinimas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Žodžių.Išryškinimas\obj\Debug\Žodžių.Išryškinimas.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Žodžių.Išryškinimas\obj\Debug\Žodžių.Išryškinimas.pdb
+D:\Programavimas2\Objetkinis programavimas\Text\Žodžių.Išryškinimas\obj\Debug\Žodžių.Išryškinimas.csproj.AssemblyReference.cache

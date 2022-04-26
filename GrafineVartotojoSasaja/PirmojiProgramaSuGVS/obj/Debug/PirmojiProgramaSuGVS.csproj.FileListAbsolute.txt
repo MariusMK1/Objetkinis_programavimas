@@ -1,0 +1,11 @@
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\bin\Debug\PirmojiProgramaSuGVS.exe.config
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\bin\Debug\PirmojiProgramaSuGVS.exe
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\bin\Debug\PirmojiProgramaSuGVS.pdb
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\obj\Debug\PirmojiProgramaSuGVS.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\obj\Debug\PirmojiProgramaSuGVS.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\obj\Debug\PirmojiProgramaSuGVS.Form1.resources
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\obj\Debug\PirmojiProgramaSuGVS.Properties.Resources.resources
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\obj\Debug\PirmojiProgramaSuGVS.csproj.GenerateResource.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\obj\Debug\PirmojiProgramaSuGVS.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\obj\Debug\PirmojiProgramaSuGVS.exe
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\PirmojiProgramaSuGVS\obj\Debug\PirmojiProgramaSuGVS.pdb

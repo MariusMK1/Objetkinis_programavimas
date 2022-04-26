@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Text\Palindrome\bin\Debug\Palindrome.exe.config
+D:\Programavimas2\Objetkinis programavimas\Text\Palindrome\bin\Debug\Palindrome.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Palindrome\bin\Debug\Palindrome.pdb
+D:\Programavimas2\Objetkinis programavimas\Text\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Palindrome\obj\Debug\Palindrome.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Palindrome\obj\Debug\Palindrome.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Palindrome\obj\Debug\Palindrome.pdb

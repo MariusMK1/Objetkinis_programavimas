@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8bfa4c2-4463-4686-aa1f-4d13e1ad2d24": {
+      "ProjectGuid": "e8bfa4c2-4463-4686-aa1f-4d13e1ad2d24",
+      "DisplayName": "PirmojiProgramaSuGVS",
+      "ColorIndex": 0
+    },
+    "c39fd8b9-7c25-4611-9629-ede5ab9ddb64": {
+      "ProjectGuid": "c39fd8b9-7c25-4611-9629-ede5ab9ddb64",
+      "DisplayName": "GUI_Studentai",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

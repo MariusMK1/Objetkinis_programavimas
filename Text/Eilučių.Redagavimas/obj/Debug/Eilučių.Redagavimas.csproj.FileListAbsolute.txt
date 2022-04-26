@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Text\Eilučių.Redagavimas\bin\Debug\Eilučių.Redagavimas.exe.config
+D:\Programavimas2\Objetkinis programavimas\Text\Eilučių.Redagavimas\bin\Debug\Eilučių.Redagavimas.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Eilučių.Redagavimas\bin\Debug\Eilučių.Redagavimas.pdb
+D:\Programavimas2\Objetkinis programavimas\Text\Eilučių.Redagavimas\obj\Debug\Eilučių.Redagavimas.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Eilučių.Redagavimas\obj\Debug\Eilučių.Redagavimas.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Eilučių.Redagavimas\obj\Debug\Eilučių.Redagavimas.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Eilučių.Redagavimas\obj\Debug\Eilučių.Redagavimas.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Eilučių.Redagavimas\obj\Debug\Eilučių.Redagavimas.pdb

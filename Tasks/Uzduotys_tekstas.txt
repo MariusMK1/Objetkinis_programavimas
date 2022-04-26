@@ -1,0 +1,21 @@
+1. Lyginis simbolių skaičius 
+Tekstiniame faile pateikiamas tekstas. Žodžiai iš eilutės į kitą eilutę nekeliami. Žodžiai eilutėse skiriami 
+bent vienu tarpu. Tarpai gali būti eilutės pradžioje bei gale, gali būti tuščios eilutės. Po žodžių, kuriuos sudaro 
+lyginis simbolių skaičius, įterpti tekstą „(LYGINIS)“.
+
+2. Palindromas. 
+Tekstiniame faile pateikiamas tekstas. Žodžiai iš eilutės į kitą eilutę nekeliami. 
+Žodžiai eilutėse skiriami bent vienu tarpu. Tarpai gali būti eilutės pradžioje bei gale, gali būti tuščios eilutės. Po 
+eilutėmis, kuriose yra vienodai iš abiejų pusių skaitomų žodžių (palindromų), įterpti eilutę, kurioje įrašytas sakinys 
+„Buvo palindromų“.
+
+3. Didžiosios raidės 
+Tekstiniame faile pateiktas tekstas. Žodžiai iš eilutės į kitą eilutę nekeliami. 
+Skyrikliai žinomi. Ilgiausią eilutės žodį iš tų žodžių, kurie prasideda didžiąja raide, perkelkite į eilutės pradžią 
+kartu su už jo esančiais skyrikliais.
+
+4. Tituliniai žodžiai.
+Tekstiniame faile pateiktas tekstas. Žodžiai iš eilutės į kitą eilutę nekeliami. 
+Skyrikliai žinomi. Į atskirą failą surašyti žodžius, kurie prasideda didžiąja raide, o iš senojo failo juos pašalinti. 
+Jei netelpa į eilutę (eilutės ilgis - 81 simbolis), formuoti naują eilutę. Skyrikliai tarp žodžių naujame faile yra 
+kablelis ir taškas.

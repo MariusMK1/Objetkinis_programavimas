@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Text\Even.Number.Of.Characters\obj\Debug\Even.Number.Of.Characters.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Even.Number.Of.Characters\obj\Debug\Even.Number.Of.Characters.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Even.Number.Of.Characters\obj\Debug\Even.Number.Of.Characters.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Even.Number.Of.Characters\bin\Debug\Even.Number.Of.Characters.exe.config
+D:\Programavimas2\Objetkinis programavimas\Text\Even.Number.Of.Characters\bin\Debug\Even.Number.Of.Characters.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Even.Number.Of.Characters\bin\Debug\Even.Number.Of.Characters.pdb
+D:\Programavimas2\Objetkinis programavimas\Text\Even.Number.Of.Characters\obj\Debug\Even.Number.Of.Characters.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Even.Number.Of.Characters\obj\Debug\Even.Number.Of.Characters.pdb

@@ -1,0 +1,11 @@
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\bin\Debug\GUI_Studentai.exe.config
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\bin\Debug\GUI_Studentai.exe
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\bin\Debug\GUI_Studentai.pdb
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\obj\Debug\GUI_Studentai.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\obj\Debug\GUI_Studentai.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\obj\Debug\GUI_Studentai.Form1.resources
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\obj\Debug\GUI_Studentai.Properties.Resources.resources
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\obj\Debug\GUI_Studentai.csproj.GenerateResource.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\obj\Debug\GUI_Studentai.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\obj\Debug\GUI_Studentai.exe
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Studentai\obj\Debug\GUI_Studentai.pdb

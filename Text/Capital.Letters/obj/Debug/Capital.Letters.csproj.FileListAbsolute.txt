@@ -1,0 +1,8 @@
+D:\Programavimas2\Objetkinis programavimas\Text\Capital.Letters\bin\Debug\Capital.Letters.exe.config
+D:\Programavimas2\Objetkinis programavimas\Text\Capital.Letters\bin\Debug\Capital.Letters.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Capital.Letters\bin\Debug\Capital.Letters.pdb
+D:\Programavimas2\Objetkinis programavimas\Text\Capital.Letters\obj\Debug\Capital.Letters.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Capital.Letters\obj\Debug\Capital.Letters.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Capital.Letters\obj\Debug\Capital.Letters.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\Text\Capital.Letters\obj\Debug\Capital.Letters.exe
+D:\Programavimas2\Objetkinis programavimas\Text\Capital.Letters\obj\Debug\Capital.Letters.pdb

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8c93898-d67f-4c5c-852f-125fa88e455a": {
+      "ProjectGuid": "d8c93898-d67f-4c5c-852f-125fa88e455a",
+      "DisplayName": "Characters",
+      "ColorIndex": 0
+    },
+    "a5d2b934-9f83-48bc-a45d-e206a34ec669": {
+      "ProjectGuid": "a5d2b934-9f83-48bc-a45d-e206a34ec669",
+      "DisplayName": "Strings",
+      "ColorIndex": 1
+    },
+    "30703ced-ab16-406b-9248-f138c6014814": {
+      "ProjectGuid": "30703ced-ab16-406b-9248-f138c6014814",
+      "DisplayName": "Letters",
+      "ColorIndex": 2
+    },
+    "98393f9d-a541-4e77-9202-b65e10da6610": {
+      "ProjectGuid": "98393f9d-a541-4e77-9202-b65e10da6610",
+      "DisplayName": "C++",
+      "ColorIndex": 3
+    },
+    "8b15f8c7-9b65-4629-8c90-c14895a55061": {
+      "ProjectGuid": "8b15f8c7-9b65-4629-8c90-c14895a55061",
+      "DisplayName": "Žodžių.Išryškinimas",
+      "ColorIndex": 4
+    },
+    "f2603d8f-6a2e-4013-bbbd-3116387241bb": {
+      "ProjectGuid": "f2603d8f-6a2e-4013-bbbd-3116387241bb",
+      "DisplayName": "Eilučių.Redagavimas",
+      "ColorIndex": 5
+    },
+    "3252af62-af4c-4112-b9c6-828c8f42fa2f": {
+      "ProjectGuid": "3252af62-af4c-4112-b9c6-828c8f42fa2f",
+      "DisplayName": "Analize",
+      "ColorIndex": 6
+    },
+    "8a360364-6fcb-4290-82f1-ce2a695122ae": {
+      "ProjectGuid": "8a360364-6fcb-4290-82f1-ce2a695122ae",
+      "DisplayName": "Even.Number.Of.Characters",
+      "ColorIndex": 7
+    },
+    "8b8c8832-fd08-49ca-9313-fa548c10adde": {
+      "ProjectGuid": "8b8c8832-fd08-49ca-9313-fa548c10adde",
+      "DisplayName": "Palindrome",
+      "ColorIndex": 8
+    },
+    "d0561845-e6a1-4e83-b5b9-490c420d2d61": {
+      "ProjectGuid": "d0561845-e6a1-4e83-b5b9-490c420d2d61",
+      "DisplayName": "Capital.Letters",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
