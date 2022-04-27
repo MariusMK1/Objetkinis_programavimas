@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirmojiProgramaSuGVS", "Pir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Studentai", "GUI_Studentai\GUI_Studentai.csproj", "{C39FD8B9-7C25-4611-9629-EDE5AB9DDB64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Studentai2", "GUI_Studentai2\GUI_Studentai2.csproj", "{A5F1A5FC-1B60-481D-A0DB-1328E5ED47D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C39FD8B9-7C25-4611-9629-EDE5AB9DDB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C39FD8B9-7C25-4611-9629-EDE5AB9DDB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C39FD8B9-7C25-4611-9629-EDE5AB9DDB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F1A5FC-1B60-481D-A0DB-1328E5ED47D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F1A5FC-1B60-481D-A0DB-1328E5ED47D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F1A5FC-1B60-481D-A0DB-1328E5ED47D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F1A5FC-1B60-481D-A0DB-1328E5ED47D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
