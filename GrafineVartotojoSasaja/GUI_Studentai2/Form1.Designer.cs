@@ -28,15 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.failasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.įvestisToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.spausdintiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.baigtiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.skaičiavimaiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.studentųSkaičiusToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.studentoĮvertinimasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.vidurkiaiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.vaikinųToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.merginųToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pagalbaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.užduotisToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nurodymaiVartotojuiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -45,12 +49,8 @@
             this.pavardeVrd = new System.Windows.Forms.TextBox();
             this.vertinimai = new System.Windows.Forms.ComboBox();
             this.rezultatas = new System.Windows.Forms.Label();
-            this.įvestisToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
-            this.vidurkiaiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.vaikinųToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.merginųToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.vaikinuVid = new System.Windows.Forms.Label();
             this.merginuVid = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
@@ -80,6 +80,13 @@
             this.failasToolStripMenuItem.Name = "failasToolStripMenuItem";
             this.failasToolStripMenuItem.Size = new System.Drawing.Size(60, 25);
             this.failasToolStripMenuItem.Text = "Failas";
+            // 
+            // įvestisToolStripMenuItem
+            // 
+            this.įvestisToolStripMenuItem.Name = "įvestisToolStripMenuItem";
+            this.įvestisToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
+            this.įvestisToolStripMenuItem.Text = "Įvestis";
+            this.įvestisToolStripMenuItem.Click += new System.EventHandler(this.įvestisToolStripMenuItem_Click);
             // 
             // spausdintiToolStripMenuItem
             // 
@@ -120,6 +127,29 @@
             this.studentoĮvertinimasToolStripMenuItem.Text = "Studento įvertinimas";
             this.studentoĮvertinimasToolStripMenuItem.Click += new System.EventHandler(this.studentoĮvertinimasToolStripMenuItem_Click);
             // 
+            // vidurkiaiToolStripMenuItem
+            // 
+            this.vidurkiaiToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.vaikinųToolStripMenuItem,
+            this.merginųToolStripMenuItem});
+            this.vidurkiaiToolStripMenuItem.Name = "vidurkiaiToolStripMenuItem";
+            this.vidurkiaiToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
+            this.vidurkiaiToolStripMenuItem.Text = "Vidurkiai";
+            // 
+            // vaikinųToolStripMenuItem
+            // 
+            this.vaikinųToolStripMenuItem.Name = "vaikinųToolStripMenuItem";
+            this.vaikinųToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
+            this.vaikinųToolStripMenuItem.Text = "Vaikinų";
+            this.vaikinųToolStripMenuItem.Click += new System.EventHandler(this.vaikinųToolStripMenuItem_Click);
+            // 
+            // merginųToolStripMenuItem
+            // 
+            this.merginųToolStripMenuItem.Name = "merginųToolStripMenuItem";
+            this.merginųToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
+            this.merginųToolStripMenuItem.Text = "Merginų";
+            this.merginųToolStripMenuItem.Click += new System.EventHandler(this.merginųToolStripMenuItem_Click);
+            // 
             // pagalbaToolStripMenuItem
             // 
             this.pagalbaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -155,23 +185,23 @@
             // 
             // rezultatai
             // 
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(186)));
-            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.Blue;
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.rezultatai.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(186)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.Blue;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.rezultatai.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.rezultatai.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(186)));
-            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.rezultatai.DefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(186)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.rezultatai.DefaultCellStyle = dataGridViewCellStyle2;
             this.rezultatai.Location = new System.Drawing.Point(0, 283);
             this.rezultatai.Name = "rezultatai";
             this.rezultatai.Size = new System.Drawing.Size(463, 218);
@@ -206,39 +236,9 @@
             this.rezultatas.TabIndex = 6;
             this.rezultatas.Text = "Čia bus parodyti rezultatai";
             // 
-            // įvestisToolStripMenuItem
-            // 
-            this.įvestisToolStripMenuItem.Name = "įvestisToolStripMenuItem";
-            this.įvestisToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
-            this.įvestisToolStripMenuItem.Text = "Įvestis";
-            this.įvestisToolStripMenuItem.Click += new System.EventHandler(this.įvestisToolStripMenuItem_Click);
-            // 
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
-            // 
-            // vidurkiaiToolStripMenuItem
-            // 
-            this.vidurkiaiToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.vaikinųToolStripMenuItem,
-            this.merginųToolStripMenuItem});
-            this.vidurkiaiToolStripMenuItem.Name = "vidurkiaiToolStripMenuItem";
-            this.vidurkiaiToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
-            this.vidurkiaiToolStripMenuItem.Text = "Vidurkiai";
-            // 
-            // vaikinųToolStripMenuItem
-            // 
-            this.vaikinųToolStripMenuItem.Name = "vaikinųToolStripMenuItem";
-            this.vaikinųToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
-            this.vaikinųToolStripMenuItem.Text = "Vaikinų";
-            this.vaikinųToolStripMenuItem.Click += new System.EventHandler(this.vaikinųToolStripMenuItem_Click);
-            // 
-            // merginųToolStripMenuItem
-            // 
-            this.merginųToolStripMenuItem.Name = "merginųToolStripMenuItem";
-            this.merginųToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
-            this.merginųToolStripMenuItem.Text = "Merginų";
-            this.merginųToolStripMenuItem.Click += new System.EventHandler(this.merginųToolStripMenuItem_Click);
             // 
             // vaikinuVid
             // 

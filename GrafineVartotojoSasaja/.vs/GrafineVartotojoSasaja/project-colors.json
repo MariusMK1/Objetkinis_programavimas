@@ -10,7 +10,12 @@
       "ProjectGuid": "c39fd8b9-7c25-4611-9629-ede5ab9ddb64",
       "DisplayName": "GUI_Studentai",
       "ColorIndex": 1
+    },
+    "a5f1a5fc-1b60-481d-a0db-1328e5ed47d3": {
+      "ProjectGuid": "a5f1a5fc-1b60-481d-a0db-1328e5ed47d3",
+      "DisplayName": "GUI_Studentai2",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

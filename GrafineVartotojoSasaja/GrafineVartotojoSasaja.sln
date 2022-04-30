@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Studentai", "GUI_Studen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Studentai2", "GUI_Studentai2\GUI_Studentai2.csproj", "{A5F1A5FC-1B60-481D-A0DB-1328E5ED47D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Museums", "GUI_Museums\GUI_Museums.csproj", "{FE2AC256-4098-4426-9A07-93C5B432A5C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A5F1A5FC-1B60-481D-A0DB-1328E5ED47D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F1A5FC-1B60-481D-A0DB-1328E5ED47D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F1A5FC-1B60-481D-A0DB-1328E5ED47D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2AC256-4098-4426-9A07-93C5B432A5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2AC256-4098-4426-9A07-93C5B432A5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2AC256-4098-4426-9A07-93C5B432A5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2AC256-4098-4426-9A07-93C5B432A5C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\bin\Debug\GUI_Museums.exe.config
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\bin\Debug\GUI_Museums.exe
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\bin\Debug\GUI_Museums.pdb
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\obj\Debug\GUI_Museums.csproj.AssemblyReference.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\obj\Debug\GUI_Museums.csproj.SuggestedBindingRedirects.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\obj\Debug\GUI_Museums.Form1.resources
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\obj\Debug\GUI_Museums.Properties.Resources.resources
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\obj\Debug\GUI_Museums.csproj.GenerateResource.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\obj\Debug\GUI_Museums.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\obj\Debug\GUI_Museums.exe
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\obj\Debug\GUI_Museums.pdb
+D:\Programavimas2\Objetkinis programavimas\GrafineVartotojoSasaja\GUI_Museums\obj\Debug\GUI_Museums.Form2.resources
