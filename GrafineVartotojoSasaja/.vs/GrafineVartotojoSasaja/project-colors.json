@@ -15,7 +15,17 @@
       "ProjectGuid": "a5f1a5fc-1b60-481d-a0db-1328e5ed47d3",
       "DisplayName": "GUI_Studentai2",
       "ColorIndex": 2
+    },
+    "fe2ac256-4098-4426-9a07-93c5b432a5c6": {
+      "ProjectGuid": "fe2ac256-4098-4426-9a07-93c5b432a5c6",
+      "DisplayName": "GUI_Museums",
+      "ColorIndex": 3
+    },
+    "9e6d0f61-39f3-4ef3-b196-73c22f6fe439": {
+      "ProjectGuid": "9e6d0f61-39f3-4ef3-b196-73c22f6fe439",
+      "DisplayName": "GUI_IMDB",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
