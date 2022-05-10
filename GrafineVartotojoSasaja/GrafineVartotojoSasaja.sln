@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Museums", "GUI_Museums\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_IMDB", "GUI_IMDB\GUI_IMDB.csproj", "{9E6D0F61-39F3-4EF3-B196-73C22F6FE439}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Basketball.Team", "GUI_Basketball.Team\GUI_Basketball.Team.csproj", "{E0F3EBAF-A1BE-4005-94D0-45DCCB59C029}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9E6D0F61-39F3-4EF3-B196-73C22F6FE439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E6D0F61-39F3-4EF3-B196-73C22F6FE439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E6D0F61-39F3-4EF3-B196-73C22F6FE439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F3EBAF-A1BE-4005-94D0-45DCCB59C029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F3EBAF-A1BE-4005-94D0-45DCCB59C029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F3EBAF-A1BE-4005-94D0-45DCCB59C029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F3EBAF-A1BE-4005-94D0-45DCCB59C029}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
